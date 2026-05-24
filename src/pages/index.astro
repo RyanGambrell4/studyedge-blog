@@ -1,0 +1,62 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import CTA from '../components/CTA.astro';
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+
+const blogLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Blog',
+  name: 'StudyEdge AI Blog',
+  url: 'https://blog.getstudyedge.com',
+  description: 'Study smarter. Guides on GPA, exam prep, study schedules, and AI tools for college students.',
+  publisher: {
+    '@type': 'Organization',
+    name: 'StudyEdge AI',
+    url: 'https://getstudyedge.com',
+  },
+};
+---
+<BaseLayout
+  title="StudyEdge AI Blog — Study Tips, GPA Strategy & Exam Prep for College"
+  description="Evidence-based study guides for college students. Build a real schedule, raise your GPA, study for finals, and run a system that actually works."
+  canonical="https://blog.getstudyedge.com/"
+  type="website"
+>
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(blogLd)} />
+
+  <section class="pt-20 pb-12 text-center px-6">
+    <div class="max-w-3xl mx-auto">
+      <div class="inline-flex items-center gap-2 text-[11px] font-bold uppercase tracking-wider text-accent bg-accent/10 border border-accent/20 px-3 py-1 rounded-full mb-6">
+        StudyEdge AI Blog
+      </div>
+      <h1 class="text-[clamp(36px,5.5vw,56px)] font-extrabold leading-[1.1] tracking-tight text-text mb-5">
+        Study smarter, on purpose.
+      </h1>
+      <p class="text-[18px] text-muted max-w-xl mx-auto leading-relaxed">
+        Real strategy from real college coursework. GPA math, exam prep, study schedules, and the systems that produce A grades without the burnout.
+      </p>
+    </div>
+  </section>
+
+  <section class="px-6 pb-20">
+    <div class="max-w-5xl mx-auto grid gap-5 sm:grid-cols-2">
+      {posts.map((post) => (
+        <PostCard
+          href={`/${post.id}/`}
+          title={post.data.title}
+          description={post.data.description}
+          pubDate={post.data.pubDate}
+          tag={post.data.tag}
+          minutes={post.data.minutes}
+        />
+      ))}
+    </div>
+    <div class="max-w-5xl mx-auto">
+      <CTA />
+    </div>
+  </section>
+</BaseLayout>

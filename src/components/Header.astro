@@ -1,0 +1,17 @@
+---
+const appUrl = 'https://getstudyedge.com/app?signup=1&plan=pro&billing=monthly&trial=1';
+---
+<header class="sticky top-0 z-50 bg-card border-b border-border">
+  <nav class="max-w-5xl mx-auto flex items-center justify-between px-6 py-4">
+    <a href="https://getstudyedge.com" class="flex items-center gap-2 font-bold text-text text-[17px] no-underline hover:no-underline">
+      <img src="/favicon.png" alt="StudyEdge AI" width="28" height="28" class="rounded-md" />
+      StudyEdge AI
+    </a>
+    <div class="flex items-center gap-7">
+      <a href="/" class="text-sm text-muted hover:text-text no-underline hover:no-underline">Blog</a>
+      <a href="https://getstudyedge.com/#features" class="hidden sm:inline text-sm text-muted hover:text-text no-underline hover:no-underline">Features</a>
+      <a href="https://getstudyedge.com/studyedge-ai#pricing" class="hidden sm:inline text-sm text-muted hover:text-text no-underline hover:no-underline">Pricing</a>
+      <a href={appUrl} class="text-sm font-semibold text-white bg-accent hover:bg-accentDark px-4 py-2 rounded-lg no-underline hover:no-underline">Try Free</a>
+    </div>
+  </nav>
+</header>
