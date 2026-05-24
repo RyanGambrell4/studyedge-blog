@@ -2,6 +2,8 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import CTA from '../components/CTA.astro';
+import TagBadge from '../components/TagBadge.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -63,30 +65,44 @@ const breadcrumbLd = {
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(articleLd)} />
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(breadcrumbLd)} />
 
-  <article class="px-6 pt-16 pb-8">
-    <div class="max-w-prose mx-auto">
-      <div class="text-[12px] uppercase tracking-wider text-accent font-bold mb-4">
-        <a href="/" class="hover:underline">Blog</a>
-        <span class="text-dim"> &middot; </span>
-        <span>{post.data.tag}</span>
-        <span class="text-dim"> &middot; </span>
-        <span class="text-muted normal-case tracking-normal font-normal">{dateLabel} &middot; {post.data.minutes} min read</span>
-      </div>
+  <article class="px-6 pt-14 pb-6">
+    <div class="max-w-[720px] mx-auto">
+      <nav class="flex items-center gap-2 text-[12.5px] text-muted mb-7" aria-label="Breadcrumb">
+        <a href="/" class="hover:text-text no-underline hover:no-underline">Blog</a>
+        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" aria-hidden="true" class="text-dim">
+          <path d="M3.5 2L6.5 5L3.5 8" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <TagBadge tag={post.data.tag} size="sm" />
+      </nav>
 
       <div class="prose">
         <h1>{post.data.title}</h1>
       </div>
 
-      <p class="text-[19px] leading-relaxed text-muted mt-4 mb-10">{post.data.description}</p>
+      <p class="text-[20px] leading-[1.55] text-muted mt-5 mb-8 font-normal">
+        {post.data.description}
+      </p>
+
+      <div class="flex items-center gap-3 text-[13px] text-muted pb-2">
+        <div class="flex items-center gap-2">
+          <div class="w-8 h-8 rounded-full bg-gradient-to-br from-accent to-indigo-600 flex items-center justify-center text-white font-bold text-[11px]">SE</div>
+          <span class="font-semibold text-text">StudyEdge AI</span>
+        </div>
+        <span class="w-1 h-1 rounded-full bg-dim"></span>
+        <time datetime={post.data.pubDate.toISOString()}>{dateLabel}</time>
+        <span class="w-1 h-1 rounded-full bg-dim"></span>
+        <span>{post.data.minutes} min read</span>
+      </div>
     </div>
   </article>
 
   <article class="px-6 pb-16">
-    <div class="max-w-prose mx-auto prose">
+    <div class="max-w-[720px] mx-auto prose">
       <Content />
     </div>
-    <div class="max-w-prose mx-auto">
+    <div class="max-w-[720px] mx-auto">
       <CTA />
+      <RelatedPosts currentSlug={post.id} />
     </div>
   </article>
 </BaseLayout>

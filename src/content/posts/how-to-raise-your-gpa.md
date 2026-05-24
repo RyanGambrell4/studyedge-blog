@@ -8,99 +8,103 @@ minutes: 10
 
 ## The honest part most articles skip
 
-How to raise your GPA is mostly a math problem and a habit problem, in that order. The math tells you what is realistic. The habits decide whether you get there. Most articles on raising your GPA skip the math and go straight to "study harder," which is unhelpful because it does not say where.
+Raising your GPA is a math problem and a habit problem, in that order. The math tells you what is realistic. The habits decide whether you get there. Most articles skip straight to "study harder," which is useless because it does not say where, on what, or for how long.
 
 This guide is the math first, then the moves.
 
 ## Step 1: run the actual numbers
 
-Before you do anything else, calculate where you are now. Total credits attempted, current cumulative GPA, the GPA you want, the number of remaining credits you can earn. Then compute what GPA you need across remaining credits to hit the target.
+Before anything else, calculate where you are: total credits attempted, current cumulative GPA, the GPA you want, the credits you have left. Then compute what average GPA you need across those remaining credits to hit the target. The formula is just `(target_gpa * total_credits) - (current_gpa * credits_done) = required_points_remaining`, divided by remaining credits.
 
-Example: 60 credits at a 3.30 cumulative, target 3.60, 60 credits remaining. To raise the cumulative to 3.60, you need a 3.90 average across the next 60 credits. Possible, but it tells you something important: the recovery is mostly running, not strolling.
+Worked example: 60 credits done at a 3.30 cumulative, target 3.60, 60 credits remaining. You need a 3.90 average across the next 60 credits. That means roughly half A's and half A-'s with no B's. Possible, but it tells you something important: this is running, not strolling. If you have 90 credits done and only 30 left, the same 3.30 to 3.60 jump requires a 4.50 average — mathematically impossible. Better to know that today than in April. (If you need a faster way to model these scenarios, the [college GPA calculator post](/college-gpa-calculator/) walks through the formula end to end.)
 
-If the target is impossible at your current pace, you need to know that today. Reset the target or extend the timeline. False optimism does not raise a GPA.
+If the target is impossible at your current pace, reset the target or extend the timeline. False optimism does not raise a GPA.
 
 ## Step 2: diagnose what actually went wrong
 
-"My GPA is low" is not a diagnosis. The real diagnosis is one of these, or some mix:
+"My GPA is low" is not a diagnosis. The real reason is usually one of these, often two:
 
-- Took a course load too heavy for the rest of your life
-- Studied passively (re-reading notes) instead of actively (retrieval practice)
-- Missed lectures and never caught up
-- Personal or health issue made everything harder
-- Did not ask for help when struggling on a specific course
-- Procrastinated and turned in weak work at the deadline
+- Took 18 credits with Orgo II and Calc III in the same term
+- Studied passively (re-reading, highlighting) instead of doing problems with the book closed
+- Missed lectures in week 4, never caught up, started avoiding the class
+- Personal or health issue made everything 30% harder than it should have been
+- Never went to office hours for the course you were actually failing
+- Turned in the lab report at 11:58 PM for a 60% instead of skipping a party and getting an 88%
 
-The plan to raise your GPA is different depending on which one of these it was. A student who studied passively does not need fewer credits, they need to change how they study. A student who took too many credits needs to drop one before adding study hours. The diagnosis decides the prescription.
+The fix is different for each. Someone who studied passively does not need fewer credits — they need to switch methods. Someone who took Orgo, Physics II, and Linear Algebra together needs to never do that again. The diagnosis decides the prescription. Be honest about which one (or two) was actually you.
 
 ## Step 3: lower the course load for at least one semester
 
-The instinct is to overload next semester with easy electives to grade-pad. That is rarely the right move. The right move is usually a normal load of 14 to 16 credits where you can actually earn the high grades you need.
+The instinct after a bad term is to overload the next one with easy electives to grade-pad. This rarely works. The right move is usually 14 to 15 credits with one genuine challenge course and the rest in your wheelhouse, so you can actually earn the A's the math requires.
 
-One semester at a 3.9 with 15 credits is more useful than one semester at a 3.6 with 18 credits trying to recover. The math is straightforward: each high-credit, high-grade course pulls the cumulative more than two padded electives.
+One semester at 3.92 with 15 credits adds 58.8 grade points to your transcript. One semester at 3.55 with 18 credits adds 63.9 — only 5 more points, in exchange for a much higher chance of another B-minus blowing up the plan. The classic mistake: cramming 18 credits because "I have to recover faster," then earning a 3.1 and going backwards.
 
 ## Step 4: pick courses strategically
 
-For the next semester:
+For the recovery semester:
 
-- Avoid stacking your hardest courses in one term.
-- If you can choose between professors for the same required course, ask upperclassmen who teaches more clearly.
-- Do not take an intro course and an upper-level course in the same field at the same time unless you have to. The cognitive load overlaps.
-- If your school offers a freshman-level filler course that maps to a major requirement, take it now while you have time to do it well.
+- Don't stack the two hardest required courses (e.g., Orgo II + Biochem, or Real Analysis + Abstract Algebra) in the same term.
+- For any multi-section required course, ask three upperclassmen who actually teaches it well. RateMyProfessor is noisy; the major-specific group chat is not. A 3.7 with Prof. A beats a 3.2 with Prof. B in the same Stats 101.
+- Don't take Intro Psych and Cognitive Neuroscience together unless required. Overlapping cognitive load eats time without saving any.
+- If your school has a 1-credit seminar that counts toward a requirement, slot it now. Free padding in a recovery term.
 
-The professor matters. The schedule matters. A 3.7 with the right schedule beats a 3.4 with a "heroic" one.
+The professor matters as much as the course title. A good schedule is worth 0.2 to 0.3 of cumulative GPA over the year.
 
 ## Step 5: change how you study, not just how many hours
 
-Most students who try to raise their GPA respond by deciding to study more, which usually means more hours of re-reading. This rarely works. The students who actually move from a 2.8 to a 3.6 over two semesters change their method.
+Most students respond to a bad semester by deciding to study more, which usually means more hours of re-reading. This rarely moves a grade. Students who actually climb from a 2.8 to a 3.6 over two semesters change their method, not just their hours.
 
 The shift:
 
-- **Active recall on every topic.** Closed-book brain dumps, flashcards where you say the answer before flipping, problem-solving with the textbook closed.
-- **Spaced sessions across the week.** Two 45-minute sessions on Monday and Thursday beats one 90-minute session.
-- **Practice problems first, textbook second.** Try the problem before re-reading the chapter. The struggle is what makes the lookup stick.
-- **Past exams under timed conditions.** The single best preparation for almost any college exam.
-- **Office hours used well.** "I tried this three ways and got these wrong answers" beats "is this on the test."
+- **Active recall on every topic.** Closed-book brain dumps, flashcards where you say the answer before flipping, problem sets done without peeking at the example.
+- **Spaced sessions across the week.** Two 50-minute Orgo sessions on Monday and Thursday beat one 100-minute session on Wednesday.
+- **Practice problems first, textbook second.** Try the problem cold for 5 minutes, then look up what you missed. The struggle is what makes the lookup stick.
+- **Past exams under timed conditions.** Two timed past finals in the week before the real one is the single highest-yield use of study time for almost any exam.
+- **Office hours used well.** "I tried this three ways and got these wrong answers, can you tell me where my reasoning breaks?" beats "is this on the test?"
 
-The method change usually moves grades more than the hour increase does.
+Most of these methods are covered in detail in [the study techniques post](/best-study-techniques-for-college-students/) and the [spaced repetition guide](/spaced-repetition-study-method/). The method change usually moves grades more than the hour increase does.
 
 ## Step 6: triage hours toward high-weight courses
 
-Run the math on each course. The four-credit course where you are at a C is doing more damage to your GPA than the two-credit course where you are at a B+. Most of your study hours go to wherever the GPA leverage is highest.
+Run the math on each course. The 4-credit course where you have a C+ is doing more damage to your cumulative than the 2-credit course where you have a B+. Be cold about it: most of your study hours go to wherever the GPA leverage is highest, which usually means your hardest 4-credit class.
 
-This often means letting a low-stakes elective get the minimum it needs and pushing extra hours into the structural courses. It feels uncomfortable. It is the correct move.
+This often means letting a low-stakes 1-credit seminar coast to a B while you push extra hours into the structural 4-credit course you cannot afford to lose. It feels uncomfortable because the seminar is easier and finishing its work feels productive. It is the wrong allocation. The credit weight is the lever.
 
 ## Step 7: use grade replacement if your school offers it
 
-Many schools let you retake a course in which you earned a C or lower and replace the grade for GPA purposes. If your school is one of them, this is one of the highest-yield GPA moves you can make. Find out the policy. A retake from a C to a B+ in a four-credit course is worth more than three new electives at a higher grade.
+Many schools let you retake a course in which you earned a C or lower and replace the grade for GPA purposes (some cap it at 2 or 3 retakes total — check the catalog). If your school does this, it is one of the highest-yield moves available. Retaking a C in a 4-credit Orgo I and earning a B+ swings your cumulative more than two new 3-credit electives at an A-.
 
-If your school averages rather than replaces, the math is different but the retake can still be worthwhile for courses central to your major.
+If your school averages rather than replaces, the math is weaker, but the retake can still be worth it for courses central to your major (and pre-med/pre-law programs often want to see the higher grade regardless of how the registrar averages it).
+
+The failure mode: spamming W's instead of retakes. Two or three W's are invisible. Six W's on a transcript start showing up as a pattern to grad school admissions, and they read it as "this student walks away from hard things."
 
 ## Step 8: protect sleep, food, and movement
 
-Sleep is what makes the next day's study session work. Students trying to raise their GPA often respond by sleeping 5 hours and grinding. The math: an extra 90 minutes of sleep regularly produces more usable studying than the 90 minutes you would have spent awake re-reading. Eat. Move. Sleep. These are not optional during a recovery semester. They are part of the strategy.
+Sleep is what makes the next day's study session work. Students in recovery mode often sleep 5 hours and grind. The math goes against them: an extra 90 minutes of sleep regularly produces more usable studying the next day than the 90 minutes you would have spent awake re-reading. Aim for 7 to 8 hours, not 5.
 
-If part of what went wrong was mental health, treat the mental health. There is no academic plan that succeeds while ignoring it.
+Eat actual meals. Move for 20 minutes a day, even just a walk. These are not optional during a recovery semester — they are part of the strategy. If part of what went wrong was anxiety or depression, treat the mental health. There is no academic plan that succeeds while ignoring it. The [exam anxiety post](/exam-anxiety-tips/) covers the test-day side of that specifically.
 
 ## Step 9: build a system that does not depend on willpower
 
-Willpower is finite, especially after a hard semester. The students who recover build a system that runs even on bad days: a planner that already knows what session is next, a reslot window for missed sessions, a Sunday rebuild ritual, an active recall practice that does not require deciding what to study each time. The point of the system is to remove decisions, not add them.
+Willpower is finite, especially after a hard term. Students who actually recover build a system that runs on bad days too: a weekly plan that already knows what session is next, a reslot rule for missed sessions (move it within 48 hours or drop it), a Sunday 20-minute rebuild ritual, an active recall practice that does not require you to decide what to study each evening. The [study schedule maker post](/study-schedule-maker/) breaks down a weekly layout that survives the third week of the semester when motivation runs out, and the [stop-procrastinating guide](/how-to-stop-procrastinating-on-homework/) handles the task-initiation problem on the days when you sit down and just stare.
+
+The point of the system is to remove decisions, not add them.
 
 ## How much can you realistically raise your GPA?
 
-A useful framing:
+A useful framing, assuming a normal load and a real method change:
 
-- **From a 2.8 to a 3.2:** achievable in one to two semesters with a normal load and a method change
-- **From a 3.0 to a 3.5:** typically two to three semesters
-- **From a 2.5 to a 3.5:** usually requires four semesters of high performance, sometimes a post-bacc afterward
-- **From a 3.5 to a 3.8:** mostly about defending grades course by course; the system, not new hours
+- **2.80 to 3.20:** one or two semesters
+- **3.00 to 3.50:** two or three semesters
+- **2.50 to 3.50:** usually four semesters of high performance, sometimes a post-bacc on top
+- **3.50 to 3.80:** mostly defense — the system, not new hours
 
-The further along you are in your degree, the more credits already weigh against any new ones. This is why defending a GPA is cheaper than rebuilding it.
+The further you are in your degree, the more credits already weigh against new ones. A senior with 105 credits has a heavier anchor than a sophomore with 45. This is why defending a GPA is cheaper than rebuilding it, and why finals weeks matter so much once you are above a 3.5 — one bad final can erase a semester of careful work. (The [finals 7-day plan](/how-to-study-for-finals/) is the version of this for the last seven days.)
 
 ## How a planner does most of the bookkeeping
 
-The hardest part of raising your GPA is not motivation. It is consistency. A planner that already knows the next move removes the daily decision that motivation has to win.
+The hardest part of raising your GPA is not motivation. It is consistency across 14 weeks of competing demands. A planner that already knows the next move removes the daily decision motivation has to win.
 
-[StudyEdge AI](https://getstudyedge.com/gpa-calculator) runs the GPA math for you, calculates the score you need on every remaining assessment, and builds the weekly plan that supports the target. It reslots missed sessions and keeps the numbers visible so the recovery stays real.
+[StudyEdge AI](https://getstudyedge.com/gpa-calculator) runs the GPA math, calculates the exact score you need on every remaining assessment in every course, and builds the weekly plan that supports the target. It reslots missed sessions and keeps the numbers visible so the recovery stays real, not aspirational.
 
 Raising your GPA is not a vibe. It is math, methods, and a system. Run the math today. Pick the method. Let the system carry the week.
