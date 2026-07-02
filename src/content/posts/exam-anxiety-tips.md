@@ -16,15 +16,15 @@ Exam anxiety is a physiological and cognitive event with predictable mechanics. 
 
 The fastest cognitive shift with the largest impact: your racing heart, sweaty palms, and tight chest are the same physiological state as excitement. The body does not have a separate signal for "I am threatened" versus "I am about to perform." The brain decides which label to apply.
 
-Alison Wood Brooks' 2014 work at Harvard ("Get Excited") tested this directly. Participants given high-stakes tasks — public speaking, math under pressure, karaoke — who said out loud "I am excited" outperformed those who said "I am calm" and those who said nothing. The effect held across all three task types. The mechanism: trying to force calm fights the body's signal. Reframing as excitement aligns with it.
+Alison Wood Brooks' 2014 work at Harvard ("Get Excited") tested this directly. Participants given high-stakes tasks (public speaking, math under pressure, karaoke) who said out loud "I am excited" outperformed those who said "I am calm" and those who said nothing. The effect held across all three task types. The mechanism: trying to force calm fights the body's signal. Reframing as excitement aligns with it.
 
-> Your racing heart and sweaty palms are the same physiological state as excitement. The brain decides which label to apply — and the label you choose is the lever.
+> Your racing heart and sweaty palms are the same physiological state as excitement. The brain decides which label to apply, and the label you choose is the lever.
 
-When you sit down for the exam and feel your pulse climb, name it: "I am excited. My body is getting ready to perform." It sounds like a trick. It works because it shuts down the secondary anxiety — the anxiety about the anxiety — which is where most of the real damage lives.
+When you sit down for the exam and feel your pulse climb, name it: "I am excited. My body is getting ready to perform." It sounds like a trick. It works because it shuts down the secondary anxiety (the anxiety about the anxiety), which is where most of the real damage lives.
 
 ## 2. Distinguish the spiral from the signal
 
-A small amount of pre-exam nervousness is performance fuel. It sharpens attention and pulls you into the room. The problem is not the nerves. The problem is the spiral — the thoughts about the nerves that escalate them.
+A small amount of pre-exam nervousness is performance fuel. It sharpens attention and pulls you into the room. The problem is not the nerves. The problem is the spiral: the thoughts about the nerves that escalate them.
 
 The spiral usually goes:
 
@@ -34,7 +34,7 @@ The spiral usually goes:
 4. Heart rate climbs further.
 5. Loop. Now you cannot read the first question.
 
-Interrupting at step 2 is the highest-leverage move you have. The signal of arousal is fine — it is the same one an athlete has at kickoff. The story you tell about it is what makes it disabling. "My heart is pounding, that means I am ready" lands you in a completely different exam than "my heart is pounding, I cannot do this."
+Interrupting at step 2 is the highest-leverage move you have. The signal of arousal is fine; it is the same one an athlete has at kickoff. The story you tell about it is what makes it disabling. "My heart is pounding, that means I am ready" lands you in a completely different exam than "my heart is pounding, I cannot do this."
 
 The "I'll feel ready when I feel calm" fallacy belongs in this section too. You will not feel calm before a high-stakes exam. Waiting for calm before you start the test is waiting for something that is not coming. You start when the proctor says to start, anxious or not, and the anxiety drops on its own once you are working a question.
 
@@ -45,15 +45,15 @@ Anxiety eats decision-making capacity. The morning of an exam is the worst time 
 A workable template:
 
 - **Night before:** Light review of the highest-yield material only. Lay out clothes, ID, calculator, pencils, water. Sleep at a normal hour, aim for 7+.
-- **Morning of:** Eat real food — protein and complex carbs, not just coffee. Coffee on an empty stomach amplifies the exact physical sensations you are trying not to spiral on.
+- **Morning of:** Eat real food: protein and complex carbs, not just coffee. Coffee on an empty stomach amplifies the exact physical sensations you are trying not to spiral on.
 - **20 minutes before:** Be at the building. Walk for 5 minutes. Do not stand near panicking classmates.
 - **In the seat:** Three slow exhales (long out-breath specifically). Read the whole exam first. Mark the easy questions to attack first.
 
-The point is not these specific items. It is that you are running a routine, not making decisions while flooded. (The deeper version of this prep — how to do the actual studying that earns you the confidence underneath the protocol — lives in [how to study for finals](/how-to-study-for-finals/).)
+The point is not these specific items. It is that you are running a routine, not making decisions while flooded. (The deeper version of this prep (covering how to do the actual studying that earns you the confidence underneath the protocol) lives in [how to study for finals](/how-to-study-for-finals/).)
 
 ## 4. Use the long exhale, not the deep breath
 
-"Take a deep breath" is wrong in a small but meaningful way. Big inhales activate the sympathetic nervous system — the one driving the racing heart. You are making the problem worse.
+"Take a deep breath" is wrong in a small but meaningful way. Big inhales activate the sympathetic nervous system, the one driving the racing heart. You are making the problem worse.
 
 The right move is the long exhale. Breathe in normally through the nose for about 4 seconds, then breathe out slowly through pursed lips for 8 seconds. Six to eight cycles. This stimulates the vagus nerve and the parasympathetic response. Heart rate drops measurably within 60 to 90 seconds.
 
@@ -61,7 +61,7 @@ This works in the exam room, at the desk, before you flip the page. It does not 
 
 ## 5. Defuse catastrophic thoughts in writing, not in your head
 
-If you have catastrophic thoughts before exams — "I am going to fail Anatomy," "I will not get into PA school," "everyone will know I am the dumb one in this study group" — arguing with them in your head does not work. The arguments are happening in the same anxious brain that produced the thoughts.
+If you have catastrophic thoughts before exams ("I am going to fail Anatomy," "I will not get into PA school," "everyone will know I am the dumb one in this study group"), arguing with them in your head does not work. The arguments are happening in the same anxious brain that produced the thoughts.
 
 Externalize them. The night before, write the worst-case story in full. Then, in writing, answer:
 
@@ -110,7 +110,7 @@ This matters even more during finals week, when there is another exam in 24 hour
 
 ## When the anxiety is bigger than tips
 
-If exam anxiety is consistently disabling — you are throwing up before tests, blanking on material you know cold, avoiding exams — this article is the floor, not the ceiling. The university counseling center exists, costs nothing for students at most schools, and CBT-trained therapists have specific protocols for test anxiety that work better than any self-help can. Use them.
+If exam anxiety is consistently disabling (you are throwing up before tests, blanking on material you know cold, avoiding exams), this article is the floor, not the ceiling. The university counseling center exists, costs nothing for students at most schools, and CBT-trained therapists have specific protocols for test anxiety that work better than any self-help can. Use them.
 
 ## How a planner reduces the anxiety upstream
 

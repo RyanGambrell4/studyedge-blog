@@ -10,7 +10,7 @@ minutes: 9
 
 The most useful sentence in the entire procrastination literature, from Tim Pychyl's research group at Carleton: procrastination is an emotion regulation problem, not a time management problem.
 
-You are not procrastinating because you do not know the homework is due. You know. You are procrastinating because starting the task triggers something uncomfortable — boredom, anxiety about doing it badly, resentment, overwhelm — and avoiding the task makes the discomfort go away in the short term. The relief is the reward. The pattern reinforces itself every time it works.
+You are not procrastinating because you do not know the homework is due. You know. You are procrastinating because starting the task triggers something uncomfortable (boredom, anxiety about doing it badly, resentment, overwhelm) and avoiding the task makes the discomfort go away in the short term. The relief is the reward. The pattern reinforces itself every time it works.
 
 This is why "just do it" advice does not work. You are not trying harder. You are trying to avoid a feeling. Every solution below addresses the feeling first and the work second.
 
@@ -20,7 +20,7 @@ The hardest part of any task is the first two minutes. The resistance peaks righ
 
 The commitment is not "I will write my essay." It is "I will do two minutes of my essay." Not preparation, not setting up the desk, not opening the file. Two minutes of the actual task.
 
-Concrete version: you have a 6-page History essay due Sunday at 11:59pm. It is Wednesday night. The two-minute commitment is not "outline the whole thing." It is: *open the doc and write the working title.* That is the entire commitment for tonight. If you keep going — and you almost certainly will — that is bonus. The contract was the title.
+Concrete version: you have a 6-page History essay due Sunday at 11:59pm. It is Wednesday night. The two-minute commitment is not "outline the whole thing." It is: *open the doc and write the working title.* That is the entire commitment for tonight. If you keep going (and you almost certainly will), that is bonus. The contract was the title.
 
 This works for a specific reason: the resistance you feel is to the *idea* of the task, which is huge and undefined in your head. Two minutes of contact replaces the imagined task ("write a 6-page essay") with the real task ("write a working title and the thesis sentence"), which is almost always smaller and more concrete than the imagined version. Once you are moving, the rules for staying moving are in [how to focus while studying](/how-to-focus-while-studying/).
 
@@ -38,7 +38,7 @@ Examples:
 
 The trigger is what your brain attaches the new behavior to. Without one, the action depends on motivation, which is unreliable. With one, the action becomes near-automatic.
 
-A related tool worth knowing: Gabriele Oettingen's mental contrasting work (often packaged as WOOP — Wish, Outcome, Obstacle, Plan). Before you make the implementation intention, name the specific obstacle ("my roommate gets home at 7 and wants to talk") and the if-then becomes "if my roommate is home at 7, I take my laptop to the library." Pre-deciding the obstacle is what separates the plan that survives Tuesday from the one that does not.
+A related tool worth knowing: Gabriele Oettingen's mental contrasting work (often packaged as WOOP: Wish, Outcome, Obstacle, Plan). Before you make the implementation intention, name the specific obstacle ("my roommate gets home at 7 and wants to talk") and the if-then becomes "if my roommate is home at 7, I take my laptop to the library." Pre-deciding the obstacle is what separates the plan that survives Tuesday from the one that does not.
 
 ## Make the task smaller than feels reasonable
 
@@ -60,7 +60,7 @@ Common ones:
 - **Overwhelm.** The task is large and you do not see a path through it.
 - **Confusion.** You do not actually understand what is being asked, and starting feels like exposing the confusion.
 
-Each one has a different intervention. Fear of doing badly responds to lowering the standard of the first draft — explicitly tell yourself "this draft is allowed to be bad." Boredom responds to constraint (timer, no music, hard mode for 20 minutes only). Resentment responds to honest acknowledgment followed by doing it anyway, because your GPA does not care about your opinion of the professor — and if the grade actually matters, [how to raise your GPA](/how-to-raise-your-gpa/) is the longer-game view. Overwhelm responds to shrinking the next action. Confusion responds to office hours, a one-question Slack to a classmate, or rereading the prompt twice before you write anything.
+Each one has a different intervention. Fear of doing badly responds to lowering the standard of the first draft; explicitly tell yourself "this draft is allowed to be bad." Boredom responds to constraint (timer, no music, hard mode for 20 minutes only). Resentment responds to honest acknowledgment followed by doing it anyway, because your GPA does not care about your opinion of the professor, and if the grade actually matters, [how to raise your GPA](/how-to-raise-your-gpa/) is the longer-game view. Overwhelm responds to shrinking the next action. Confusion responds to office hours, a one-question Slack to a classmate, or rereading the prompt twice before you write anything.
 
 The fastest way out is naming which one it is. "I am avoiding this because I am afraid the draft will be bad" is already half the work.
 
@@ -99,7 +99,7 @@ The inversion: start without motivation. Two minutes of work produces the feelin
 
 A few related traps worth knowing by name, because catching yourself in them is half the cure:
 
-- **The productivity-app-as-procrastination loop.** Three hours setting up Notion, building a Gantt chart in a new tool, watching a YouTube video on time management — none of which is the assignment.
+- **The productivity-app-as-procrastination loop.** Three hours setting up Notion, building a Gantt chart in a new tool, watching a YouTube video on time management, none of which is the assignment.
 - **The Discord study server.** "Co-working" in a server with 200 strangers is mostly chatting with a productive-looking background. If the deliverable is not getting closer to done, it is not studying.
 - **The clean-room delay.** "I'll start once my desk is clean." Cleaning the desk is now the procrastination.
 - **Working from bed.** Your brain trained on that location to sleep, not to think. The bed wins every time.
@@ -116,13 +116,13 @@ Tight deadlines backfire when:
 
 For long-term projects, the better tool is a chain of small interim deadlines, each with a specific deliverable. The 8-page paper due in three weeks becomes: outline by Tuesday, first two pages by Friday, full draft by next Friday, revision by Sunday. The interim deliverables are the deadlines that actually move work.
 
-This matters most when the stakes are high and the timeline is long — finals season is the canonical version of this problem, and [how to study for finals](/how-to-study-for-finals/) covers the multi-week version of the same logic.
+This matters most when the stakes are high and the timeline is long; finals season is the canonical version of this problem, and [how to study for finals](/how-to-study-for-finals/) covers the multi-week version of the same logic.
 
 ## How a planner removes the avoidance decision
 
 The deepest reason procrastination wins is that "what should I do right now" is itself a decision you do not want to make. Sitting down without a plan means immediately confronting a menu of bad options, and the easiest move is to leave the desk.
 
-The fix is to make the decision before the avoidance starts. A weekly plan built once — the [study schedule maker](/study-schedule-maker/) is the version of this we use — turns every study session into "do the thing on the calendar" instead of "negotiate with yourself about what to do."
+The fix is to make the decision before the avoidance starts. A weekly plan built once (the [study schedule maker](/study-schedule-maker/) is the version of this we use) turns every study session into "do the thing on the calendar" instead of "negotiate with yourself about what to do."
 
 [StudyEdge AI](https://getstudyedge.com/) takes this further: it gives you the next 60-minute task before you sit down. The course, the topic, the deliverable. No menu. No decision. You sit, you do the two minutes, the momentum takes over.
 

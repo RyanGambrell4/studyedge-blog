@@ -24,7 +24,7 @@ Worked example for a single term: A in 4-credit Calc II (16.0), A- in 4-credit I
 
 Three things trip students up:
 
-- A plus or minus shifts your GPA by 0.3 or 0.4, which is bigger than it feels. A B+ instead of a B in a 4-credit course is 1.2 extra grade points — meaningful at the cumulative level over a few semesters.
+- A plus or minus shifts your GPA by 0.3 or 0.4, which is bigger than it feels. A B+ instead of a B in a 4-credit course is 1.2 extra grade points, which is meaningful at the cumulative level over a few semesters.
 - W's and pass/fail courses do not factor into the average, but they still cost time, tuition, and (after a few) reputation on a transcript.
 - Retake policy varies wildly. Some schools replace the old grade entirely, some average them, some keep both grades on the transcript with only the new one counted for GPA. Read your registrar's page before banking on a retake.
 
@@ -33,7 +33,7 @@ Three things trip students up:
 Credits decide how much a single grade actually moves the cumulative. A worked example: a sophomore with 45 credits at a 3.20 cumulative.
 
 - One A (4.0) in a 4-credit course brings the cumulative to roughly **3.27** that term.
-- One A in a 1-credit seminar brings it to **3.21** — barely visible.
+- One A in a 1-credit seminar brings it to **3.21**, barely visible.
 - One C (2.0) in a 4-credit course drops it to **3.10**.
 - One C in a 1-credit seminar drops it to **3.17**.
 
@@ -41,7 +41,7 @@ The credit weight is the lever. This is why a 4-credit Orgo II grade matters 4x 
 
 ## A second worked example: the recovery math
 
-60 credits done at a 3.50 cumulative. You take 15 credits next semester and earn a 2.50 across them (one bad term — Orgo II went sideways). New cumulative: roughly **3.30**.
+60 credits done at a 3.50 cumulative. You take 15 credits next semester and earn a 2.50 across them (one bad term (Orgo II went sideways)). New cumulative: roughly **3.30**.
 
 To climb back to 3.50 from there, you need close to a 3.93 average over the next 30 credits. That is half A's, half A-'s, no B's. Possible, but expensive in hours and stress.
 
@@ -63,7 +63,7 @@ If you only do GPA-level math, you cannot decide how to spend tonight. Course-le
 
 ## Run the math early, not at week ten
 
-Students who hold high GPAs know, at any point in the semester, exactly where they stand in every course. They recalculate after every graded item — not from anxiety, just from information. It takes 90 seconds.
+Students who hold high GPAs know, at any point in the semester, exactly where they stand in every course. They recalculate after every graded item, not from anxiety, just from information. It takes 90 seconds.
 
 Knowing you walk into the Stats 101 final at a 92 changes how you study compared to thinking "I think I'm okay." The first leads to a confident 2-hour review of the two weakest topics. The second leads to a 9-hour panic spiral on Sunday night, half of which is spent on material you already know. The [finals study guide](/how-to-study-for-finals/) lays out the 7-day version of that calmer plan.
 
@@ -73,7 +73,7 @@ Defense mode is when the lowest plausible score on your remaining work still kee
 
 Defense mode is not "stop trying." It is "move hours toward the course that actually needs them." Most semesters have at least one course in defense mode and one in scramble mode. Knowing which is which is the whole game.
 
-The failure mode here is reversing it — grinding the defense course because it feels productive (you know the material, so studying it feels good) while the scramble course rots until Thursday night.
+The failure mode here is reversing it: grinding the defense course because it feels productive (you know the material, so studying it feels good) while the scramble course rots until Thursday night.
 
 ## Common GPA calculator mistakes
 
@@ -88,11 +88,11 @@ The failure mode here is reversing it — grinding the defense course because it
 
 A GPA calculator is useful during the semester, not just at the end. Three real use cases:
 
-**Triage decisions.** When you have a Calc III exam Tuesday and a Comp Lit paper Wednesday, the calculator tells you which one moves your GPA more per hour of prep. Usually the 4-credit STEM exam wins, but not always — if you are already at a 95 in Calc III and a 78 in Comp Lit, the paper wins.
+**Triage decisions.** When you have a Calc III exam Tuesday and a Comp Lit paper Wednesday, the calculator tells you which one moves your GPA more per hour of prep. Usually the 4-credit STEM exam wins, but not always. If you are already at a 95 in Calc III and a 78 in Comp Lit, the paper wins.
 
 **Pass-fail decisions.** Some schools let you switch a course to pass/fail by a midterm deadline (often week 8 to 10). If a Gen Ed in a field outside your major would drag you down and isn't required for a letter grade, pass/fail can save the cumulative. Run the numbers before the deadline. The failure mode: forgetting the deadline, then trying to W out at week 12 and ending up with the W on the transcript anyway.
 
-**Course retake decisions.** If your school allows grade replacement, retaking a C in a 4-credit course can be one of the highest-yield moves you make. The calculator tells you exactly how much: a C-to-B+ retake in 4 credits adds roughly 5.2 grade points back, which moves a 3.20 cumulative (in 60 credits) to about 3.29 — bigger than most single-course wins.
+**Course retake decisions.** If your school allows grade replacement, retaking a C in a 4-credit course can be one of the highest-yield moves you make. The calculator tells you exactly how much: a C-to-B+ retake in 4 credits adds roughly 5.2 grade points back, which moves a 3.20 cumulative (in 60 credits) to about 3.29, which is bigger than most single-course wins.
 
 ## How to think about a target GPA
 

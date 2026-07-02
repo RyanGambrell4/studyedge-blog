@@ -12,13 +12,15 @@ Most "how to focus while studying" advice tells you to try harder. Close the tab
 
 The students who reliably focus are not more disciplined than you are. They have removed the decisions that drain attention before the work begins. Focus is what happens when you stop fighting your environment, not when you finally beat it.
 
+![A student focused on work at a clean, minimal desk](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=720&q=80)
+
 ## 1. Attention residue is the silent killer
 
 Sophie Leroy's 2009 paper coined the term "attention residue" for what happens when you switch tasks. A fragment of the previous task stays cognitively active for the next 15 to 25 minutes, degrading performance on whatever you switched to. The brain does not context-switch cleanly. It overlaps.
 
 Here is what that looks like at your desk:
 
-You sit down at 7:00pm to do a Stats 101 problem set. You think, "I'll check Instagram for one minute." It is now 7:14pm, you have also opened TikTok, and you watched a clip about a goalkeeper. You start the problem set at 7:18. The first 15 to 20 minutes of that work are degraded — you re-read the first problem three times, your mind drifts back to the clip, you misread a variable. The "one minute" cost you closer to 30.
+You sit down at 7:00pm to do a Stats 101 problem set. You think, "I'll check Instagram for one minute." It is now 7:14pm, you have also opened TikTok, and you watched a clip about a goalkeeper. You start the problem set at 7:18. The first 15 to 20 minutes of that work are degraded: you re-read the first problem three times, your mind drifts back to the clip, you misread a variable. The "one minute" cost you closer to 30.
 
 Every interruption you accept is paid for in the next half hour of foggy thinking, not just the 90 seconds of the interruption itself. The cost is invisible because you cannot feel impaired cognition. You only feel the time you spent on the phone, which seems small, so you keep doing it.
 
@@ -35,13 +37,15 @@ Before opening your textbook, do the boring setup:
 
 Every decision you have to make during a study session is attention you are not spending on the work. Pre-decide everything you can.
 
+![A clean, distraction-free desk setup with a laptop and minimal items](https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=720&q=80)
+
 ## 3. The two-minute starting rule
 
 The hardest moment of focus is the first two minutes. Your brain resists the transition from low-effort scrolling to high-effort thinking, and that resistance is what produces "let me just check my email first" and then forty-five minutes are gone.
 
-The rule, which traces back through BJ Fogg's Tiny Habits work and James Clear's popularization of it: commit to two minutes of the actual work. Not preparation, not opening files, not making a playlist. Two minutes of the task itself — write the first sentence, do the first problem, summarize the first paragraph of the reading.
+The rule, which traces back through BJ Fogg's Tiny Habits work and James Clear's popularization of it: commit to two minutes of the actual work. Not preparation, not opening files, not making a playlist. Two minutes of the task itself: write the first sentence, do the first problem, summarize the first paragraph of the reading.
 
-Almost every time, you keep going past two minutes. The resistance was the entry cost, not the work. If two minutes still feels impossible, you are usually procrastinating for a reason worth naming — see [how to stop procrastinating on homework](/how-to-stop-procrastinating-on-homework/) for the diagnostic.
+Almost every time, you keep going past two minutes. The resistance was the entry cost, not the work. If two minutes still feels impossible, you are usually procrastinating for a reason worth naming. See [how to stop procrastinating on homework](/how-to-stop-procrastinating-on-homework/) for the diagnostic.
 
 ## 4. Work in focused blocks, not vague hours
 
@@ -51,9 +55,11 @@ Replace it with focused blocks:
 
 - **45 to 90 minutes of single-tasked work.**
 - One specific deliverable per block: "finish problem set 4, problems 1 through 6," not "do some stats."
-- A real break after, away from the desk and the screen. Scrolling is not a break — it is a different cognitive load that does not let attention recover.
+- A real break after, away from the desk and the screen. Scrolling is not a break; it is a different cognitive load that does not let attention recover.
 
-The pomodoro technique (25 on, 5 off) works fine for some students. Others find 90-minute blocks more natural because they match one cognitive sprint. The right block length is the longest one you can hold full attention for. Test both for a week and keep the one that produces more finished deliverables, not the one that feels more productive. Pair the right blocks with the right material using [the best study techniques for college students](/best-study-techniques-for-college-students/) — active recall and retrieval practice survive long blocks better than passive rereading does.
+The pomodoro technique (25 on, 5 off) works fine for some students. Others find 90-minute blocks more natural because they match one cognitive sprint. The right block length is the longest one you can hold full attention for. Test both for a week and keep the one that produces more finished deliverables, not the one that feels more productive. Pair the right blocks with the right material using [the best study techniques for college students](/best-study-techniques-for-college-students/): active recall and retrieval practice survive long blocks better than passive rereading does.
+
+![Student working with focus at a desk during a timed study session](https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=720&q=80)
 
 ## 5. Hard work first, easy work later
 
@@ -65,7 +71,7 @@ This usually means:
 - Reading-heavy work and problem sets early.
 - Admin tasks, easy review, and organizing notes at the end of the night.
 
-The opposite pattern — clear the inbox, organize the Notion, color-code the syllabus — is one of the most common forms of disguised procrastination. You spend your best two hours of attention on the easiest possible work, then run out of cognitive fuel before the real assignment starts, and tell yourself you "had a productive day." You did not. You had a busy day.
+The opposite pattern (clear the inbox, organize the Notion, color-code the syllabus) is one of the most common forms of disguised procrastination. You spend your best two hours of attention on the easiest possible work, then run out of cognitive fuel before the real assignment starts, and tell yourself you "had a productive day." You did not. You had a busy day.
 
 ## 6. Manage internal distractions, not just external ones
 
@@ -89,6 +95,8 @@ Sleep, food, and movement are not separate from focus. They are the inputs.
 
 The student who sleeps seven hours and walks for twenty minutes will outfocus the student who slept four and did three pomodoros to "make up for it." This is unintuitive only if you have not tried it.
 
+![A person getting quality sleep, the most underrated study tool](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=720&q=80)
+
 ## What does not work
 
 A short list of things that feel like focus tools and mostly are not:
@@ -103,7 +111,7 @@ None of these are universally bad. But if you are reading a focus article, your 
 
 ## The structural problem most students hit
 
-Even when you know all of this, the planning load makes it hard to apply. Deciding *what* to focus on in the next 90 minutes, *which* topic deserves your best block today, *when* to break and switch — that decision-making itself burns the focus you were trying to protect. The longer your to-do list, the more attention you spend choosing instead of working.
+Even when you know all of this, the planning load makes it hard to apply. Deciding *what* to focus on in the next 90 minutes, *which* topic deserves your best block today, *when* to break and switch; that decision-making itself burns the focus you were trying to protect. The longer your to-do list, the more attention you spend choosing instead of working.
 
 [StudyEdge AI](https://getstudyedge.com/) handles the planning so the only thing left to decide is whether to sit down. It picks the next session, sequences your hardest work into your best blocks, and removes the "what should I do next" question that ends most study sessions early. If you want the underlying weekly structure first, the [study schedule maker](/study-schedule-maker/) produces the scaffolding the AI fills in.
 

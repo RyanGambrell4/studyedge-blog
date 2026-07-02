@@ -12,7 +12,7 @@ The most common study techniques in college are the ones that feel best in the m
 
 The problem is that recognition is not retrieval. Recognizing your notes when you flip through them at 11pm does not mean you can produce the citric acid cycle from a blank page on Tuesday's exam. The techniques below are different. They feel harder during the session. They produce dramatically better retention. Roediger and Karpicke's 2006 retrieval practice studies put the gap at roughly 50% better long-term recall versus equivalent time spent re-reading, and the effect has held up across a couple decades of replication.
 
-> Retrieval practice produces roughly 50% better long-term recall than re-reading for the same total time. Recognition is not retrieval — and that gap is what separates the A from the B+.
+> Retrieval practice produces roughly 50% better long-term recall than re-reading for the same total time. Recognition is not retrieval, and that gap is what separates the A from the B+.
 
 ## 1. Active recall (retrieval practice)
 
@@ -31,17 +31,17 @@ The students who reliably pull As do this without thinking. Most other students 
 
 ## 2. Spaced repetition
 
-If active recall is the technique, spacing is the schedule. Spaced repetition means revisiting the same material at expanding intervals — 1 day, 3 days, 10 days, ~30 days — instead of one giant block the week of the exam.
+If active recall is the technique, spacing is the schedule. Spaced repetition means revisiting the same material at expanding intervals (1 day, 3 days, 10 days, ~30 days) instead of one giant block the week of the exam.
 
 Hermann Ebbinghaus mapped the forgetting curve in 1885 with nonsense syllables on himself. The basic shape has held up: without intervention, you lose roughly half of new material within 24 hours and most of the rest within a week. Every successful retrieval flattens the next decay. Cepeda et al.'s 2008 meta-analysis on spacing found that for retention intervals of weeks to months, spaced practice beat massed practice by a wide margin across more than 250 studies.
 
 How to use spacing in a real semester:
 
 - Touch each course three or four short sessions per week, not in one Sunday marathon.
-- For high-volume factual material — anatomy, pharmacology, vocabulary, biochem pathways — use a spaced repetition system (Anki, Quizlet's learn mode, the spacing engine in your planner).
+- For high-volume factual material (anatomy, pharmacology, vocabulary, biochem pathways), use a spaced repetition system (Anki, Quizlet's learn mode, the spacing engine in your planner).
 - After every quiz, schedule a 10-minute re-touch of the topics you missed three days later, then a week later, then in your finals review block.
 
-A 30-minute session split across three days outperforms a 90-minute session in one sitting, by a margin that shows up consistently in the lab and in your transcript. The full case for spacing — including the schedules, the algorithms, and the failure modes — is in the [spaced repetition study method guide](/spaced-repetition-study-method/).
+A 30-minute session split across three days outperforms a 90-minute session in one sitting, by a margin that shows up consistently in the lab and in your transcript. The full case for spacing (including the schedules, the algorithms, and the failure modes) is in the [spaced repetition study method guide](/spaced-repetition-study-method/).
 
 ## 3. Interleaving
 
@@ -71,9 +71,9 @@ Elaboration is what separates students who memorize and forget from students who
 
 ## 5. Self-explanation
 
-Closely related to elaboration. After working a problem, explain out loud or in writing why each step is the right step. Not *what* you did — *why* it was correct.
+Closely related to elaboration. After working a problem, explain out loud or in writing why each step is the right step. Not *what* you did, but *why* it was correct.
 
-This is the single best move in problem-heavy courses: physics, chemistry, math, engineering. In organic chemistry, walk through the arrow-pushing mechanism and articulate why the nucleophile attacks the carbonyl carbon and not the oxygen. In a physics problem, articulate why you chose conservation of energy instead of kinematics. The act of forcing the reasoning into words exposes the moves you were doing on autopilot — which is exactly where you lose points on harder exam variants.
+This is the single best move in problem-heavy courses: physics, chemistry, math, engineering. In organic chemistry, walk through the arrow-pushing mechanism and articulate why the nucleophile attacks the carbonyl carbon and not the oxygen. In a physics problem, articulate why you chose conservation of energy instead of kinematics. The act of forcing the reasoning into words exposes the moves you were doing on autopilot, which is exactly where you lose points on harder exam variants.
 
 ## 6. Dual coding
 
@@ -86,7 +86,7 @@ Dual coding means combining verbal information with visual information. Diagrams
 
 The visual does not have to be pretty. It has to exist, and you have to draw it yourself. The act of drawing is the encoding work. If you download someone else's concept map, you got the artifact without the learning.
 
-This connects directly to [how to take better notes in college](/how-to-take-better-notes-in-college/) — the point of good notes is to produce material you can later use as a retrieval cue, not a transcript you re-read.
+This connects directly to [how to take better notes in college](/how-to-take-better-notes-in-college/): the point of good notes is to produce material you can later use as a retrieval cue, not a transcript you re-read.
 
 ## What does not work (or works much less well)
 
@@ -112,11 +112,11 @@ A high-leverage weekly workflow:
 5. **Every problem.** Force yourself to articulate why each step works, not just what you did (self-explanation).
 6. **Before the exam.** At least one full past exam, timed, closed-book, in a chair (retrieval practice under conditions).
 
-This is the system that produces As. The techniques are not the secret — they have been documented for decades. The combination is. A version of this exact stack is what [the 7-day finals study plan](/how-to-study-for-finals/) is built around.
+This is the system that produces As. The techniques are not the secret; they have been documented for decades. The combination is. A version of this exact stack is what [the 7-day finals study plan](/how-to-study-for-finals/) is built around.
 
 ## The structural problem most students hit
 
-Even when students know these techniques, they often do not use them, because the planning load is too high. Figuring out *when* the Day 3 retrieval should happen for biochem when you also have a polisci paper due, *what* to interleave when you have new material in three classes this week, *which* topic deserves the brain dump tonight — that's its own job, and it eats willpower fast. The techniques get abandoned because the scheduling is exhausting, not because the student is lazy. A [weekly study schedule](/study-schedule-maker/) handles most of this load if you actually maintain it.
+Even when students know these techniques, they often do not use them, because the planning load is too high. Figuring out *when* the Day 3 retrieval should happen for biochem when you also have a polisci paper due, *what* to interleave when you have new material in three classes this week, *which* topic deserves the brain dump tonight: that's its own job, and it eats willpower fast. The techniques get abandoned because the scheduling is exhausting, not because the student is lazy. A [weekly study schedule](/study-schedule-maker/) handles most of this load if you actually maintain it.
 
 This is the role a study planner is supposed to fill: handle the scheduling and topic selection so you can spend your willpower on doing the techniques, not deciding when to do them.
 

@@ -16,7 +16,7 @@ This guide is the math first, then the moves.
 
 Before anything else, calculate where you are: total credits attempted, current cumulative GPA, the GPA you want, the credits you have left. Then compute what average GPA you need across those remaining credits to hit the target. The formula is just `(target_gpa * total_credits) - (current_gpa * credits_done) = required_points_remaining`, divided by remaining credits.
 
-Worked example: 60 credits done at a 3.30 cumulative, target 3.60, 60 credits remaining. You need a 3.90 average across the next 60 credits. That means roughly half A's and half A-'s with no B's. Possible, but it tells you something important: this is running, not strolling. If you have 90 credits done and only 30 left, the same 3.30 to 3.60 jump requires a 4.50 average — mathematically impossible. Better to know that today than in April. (If you need a faster way to model these scenarios, the [college GPA calculator post](/college-gpa-calculator/) walks through the formula end to end.)
+Worked example: 60 credits done at a 3.30 cumulative, target 3.60, 60 credits remaining. You need a 3.90 average across the next 60 credits. That means roughly half A's and half A-'s with no B's. Possible, but it tells you something important: this is running, not strolling. If you have 90 credits done and only 30 left, the same 3.30 to 3.60 jump requires a 4.50 average, which is mathematically impossible. Better to know that today than in April. (If you need a faster way to model these scenarios, the [college GPA calculator post](/college-gpa-calculator/) walks through the formula end to end.)
 
 If the target is impossible at your current pace, reset the target or extend the timeline. False optimism does not raise a GPA.
 
@@ -31,13 +31,13 @@ If the target is impossible at your current pace, reset the target or extend the
 - Never went to office hours for the course you were actually failing
 - Turned in the lab report at 11:58 PM for a 60% instead of skipping a party and getting an 88%
 
-The fix is different for each. Someone who studied passively does not need fewer credits — they need to switch methods. Someone who took Orgo, Physics II, and Linear Algebra together needs to never do that again. The diagnosis decides the prescription. Be honest about which one (or two) was actually you.
+The fix is different for each. Someone who studied passively does not need fewer credits; they need to switch methods. Someone who took Orgo, Physics II, and Linear Algebra together needs to never do that again. The diagnosis decides the prescription. Be honest about which one (or two) was actually you.
 
 ## Step 3: lower the course load for at least one semester
 
 The instinct after a bad term is to overload the next one with easy electives to grade-pad. This rarely works. The right move is usually 14 to 15 credits with one genuine challenge course and the rest in your wheelhouse, so you can actually earn the A's the math requires.
 
-One semester at 3.92 with 15 credits adds 58.8 grade points to your transcript. One semester at 3.55 with 18 credits adds 63.9 — only 5 more points, in exchange for a much higher chance of another B-minus blowing up the plan. The classic mistake: cramming 18 credits because "I have to recover faster," then earning a 3.1 and going backwards.
+One semester at 3.92 with 15 credits adds 58.8 grade points to your transcript. One semester at 3.55 with 18 credits adds 63.9, only 5 more points, in exchange for a much higher chance of another B-minus blowing up the plan. The classic mistake: cramming 18 credits because "I have to recover faster," then earning a 3.1 and going backwards.
 
 ## Step 4: pick courses strategically
 
@@ -72,7 +72,7 @@ This often means letting a low-stakes 1-credit seminar coast to a B while you pu
 
 ## Step 7: use grade replacement if your school offers it
 
-Many schools let you retake a course in which you earned a C or lower and replace the grade for GPA purposes (some cap it at 2 or 3 retakes total — check the catalog). If your school does this, it is one of the highest-yield moves available. Retaking a C in a 4-credit Orgo I and earning a B+ swings your cumulative more than two new 3-credit electives at an A-.
+Many schools let you retake a course in which you earned a C or lower and replace the grade for GPA purposes (some cap it at 2 or 3 retakes total (check the catalog)). If your school does this, it is one of the highest-yield moves available. Retaking a C in a 4-credit Orgo I and earning a B+ swings your cumulative more than two new 3-credit electives at an A-.
 
 If your school averages rather than replaces, the math is weaker, but the retake can still be worth it for courses central to your major (and pre-med/pre-law programs often want to see the higher grade regardless of how the registrar averages it).
 
@@ -82,7 +82,7 @@ The failure mode: spamming W's instead of retakes. Two or three W's are invisibl
 
 Sleep is what makes the next day's study session work. Students in recovery mode often sleep 5 hours and grind. The math goes against them: an extra 90 minutes of sleep regularly produces more usable studying the next day than the 90 minutes you would have spent awake re-reading. Aim for 7 to 8 hours, not 5.
 
-Eat actual meals. Move for 20 minutes a day, even just a walk. These are not optional during a recovery semester — they are part of the strategy. If part of what went wrong was anxiety or depression, treat the mental health. There is no academic plan that succeeds while ignoring it. The [exam anxiety post](/exam-anxiety-tips/) covers the test-day side of that specifically.
+Eat actual meals. Move for 20 minutes a day, even just a walk. These are not optional during a recovery semester; they are part of the strategy. If part of what went wrong was anxiety or depression, treat the mental health. There is no academic plan that succeeds while ignoring it. The [exam anxiety post](/exam-anxiety-tips/) covers the test-day side of that specifically.
 
 ## Step 9: build a system that does not depend on willpower
 
@@ -97,9 +97,9 @@ A useful framing, assuming a normal load and a real method change:
 - **2.80 to 3.20:** one or two semesters
 - **3.00 to 3.50:** two or three semesters
 - **2.50 to 3.50:** usually four semesters of high performance, sometimes a post-bacc on top
-- **3.50 to 3.80:** mostly defense — the system, not new hours
+- **3.50 to 3.80:** mostly defense: the system, not new hours
 
-The further you are in your degree, the more credits already weigh against new ones. A senior with 105 credits has a heavier anchor than a sophomore with 45. This is why defending a GPA is cheaper than rebuilding it, and why finals weeks matter so much once you are above a 3.5 — one bad final can erase a semester of careful work. (The [finals 7-day plan](/how-to-study-for-finals/) is the version of this for the last seven days.)
+The further you are in your degree, the more credits already weigh against new ones. A senior with 105 credits has a heavier anchor than a sophomore with 45. This is why defending a GPA is cheaper than rebuilding it, and why finals weeks matter so much once you are above a 3.5; one bad final can erase a semester of careful work. (The [finals 7-day plan](/how-to-study-for-finals/) is the version of this for the last seven days.)
 
 ## How a planner does most of the bookkeeping
 

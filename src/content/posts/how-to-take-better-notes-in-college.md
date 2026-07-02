@@ -22,7 +22,7 @@ If you only change one thing about your note-taking, change this: do not optimiz
 
 A page of dense transcription that you never re-read is worth less than three lines you revisit four times. A perfect color-coded outline that sits untouched is worth less than a messy page you used to quiz yourself the night before section.
 
-Every note-taking method below is judged on the same criterion: does it set up retrieval, or does it just produce a record? Notes are the raw input. The [study techniques that actually move grades](/best-study-techniques-for-college-students/) — active recall, spacing, interleaving — are the engine that runs on top of them. Capture without reuse is a parked car.
+Every note-taking method below is judged on the same criterion: does it set up retrieval, or does it just produce a record? Notes are the raw input. The [study techniques that actually move grades](/best-study-techniques-for-college-students/) (active recall, spacing, interleaving) are the engine that runs on top of them. Capture without reuse is a parked car.
 
 ## 1. The Cornell method (still the best general-purpose system)
 
@@ -60,15 +60,15 @@ Outlining is poor for material that is non-linear: a Lit Theory seminar on Derri
 
 ## 3. Concept mapping (for systems and relationships)
 
-For courses where the content is a web of relationships — neuroscience pathways, ecological systems, philosophical arguments, signaling cascades — a linear outline buries the structure that matters.
+For courses where the content is a web of relationships (neuroscience pathways, ecological systems, philosophical arguments, signaling cascades), a linear outline buries the structure that matters.
 
 A concept map is a diagram. Nodes are concepts, arrows are relationships, labels on the arrows describe the relationship. It looks chaotic. The chaos is the point: the map matches the shape of the actual knowledge.
 
-You do not need software. A page of unlined printer paper and a pen is faster than any app. Build the map as you go in lecture, redraw it cleaner that night (15 to 20 minutes), and use the redraw as a retrieval session. The redraw is the studying — if you have to look back at your notes more than twice while redrawing, you have found the soft spots in your understanding.
+You do not need software. A page of unlined printer paper and a pen is faster than any app. Build the map as you go in lecture, redraw it cleaner that night (15 to 20 minutes), and use the redraw as a retrieval session. The redraw is the studying; if you have to look back at your notes more than twice while redrawing, you have found the soft spots in your understanding.
 
 ## 4. The charting method (for compare-and-contrast material)
 
-When the course is comparison-heavy — different drug classes in pharmacology, four schools of literary criticism, the Reformation versus the Counter-Reformation — a table beats prose.
+When the course is comparison-heavy (different drug classes in pharmacology, four schools of literary criticism, the Reformation versus the Counter-Reformation), a table beats prose.
 
 Columns for the things being compared, rows for the dimensions of comparison. This is what your professor is asking you to know, in the most efficient possible form for the exam.
 
@@ -78,7 +78,7 @@ Build the chart during the lecture if you can see the structure coming. Otherwis
 
 This is not a full note system. It is a habit to add to any of the above.
 
-While taking notes, write a question in the margin every time you write something important. Not "what is X" — that is too easy. Write the question the way you imagine it on the exam.
+While taking notes, write a question in the margin every time you write something important. Not "what is X," because that is too easy. Write the question the way you imagine it on the exam.
 
 For example, if your Bio 200 professor explains the citric acid cycle, do not just outline it. In the margin, write: "Draw the citric acid cycle from memory and label the carbon counts at each step. Identify where CO2 leaves and where NADH is produced." That question becomes a future quiz prompt you will actually use. If you want this habit to do real work in the long run, lean on a [spaced repetition study method](/spaced-repetition-study-method/) so the questions cycle back at 1, 3, and 7-day intervals instead of dying in the margin.
 
@@ -106,13 +106,13 @@ Within 24 hours, spend 15 to 20 minutes per lecture on this:
 - **Write a 2-sentence summary of the lecture's main point.** If you cannot summarize it in two sentences, you missed the thesis.
 - **Flag what you did not understand.** Star it. This is the highest-value piece for office hours or your study group.
 
-Twenty minutes spent on this within a day of the lecture saves hours during finals week and dramatically improves long-term retention. It is the single highest-leverage note habit, and it only works if your week actually has the time for it — which is exactly what a [study schedule maker](/study-schedule-maker/) protects with a daily 30-minute review block.
+Twenty minutes spent on this within a day of the lecture saves hours during finals week and dramatically improves long-term retention. It is the single highest-leverage note habit, and it only works if your week actually has the time for it, which is exactly what a [study schedule maker](/study-schedule-maker/) protects with a daily 30-minute review block.
 
 ## The trap of the "perfect notes" student
 
 You know the one. Color-coded, custom Notion template, calligraphy headers, three highlighter shades for each professor. The TikTok aesthetic of studying.
 
-It feels productive. It is mostly performance. The hours spent on the aesthetic are hours not spent on retrieval. The students who reliably pull As take messier, faster notes and spend the saved time on practice problems and self-quizzing. The rewriter who never reviews loses to the scribbler who does — every semester, in every course.
+It feels productive. It is mostly performance. The hours spent on the aesthetic are hours not spent on retrieval. The students who reliably pull As take messier, faster notes and spend the saved time on practice problems and self-quizzing. The rewriter who never reviews loses to the scribbler who does, every semester and in every course.
 
 The other failure mode worth naming: the recorder. Students who lean on lecture recordings or auto-transcription and "deal with it later." Later does not come. Two hours of audio you intended to re-listen to is two hours of nothing.
 

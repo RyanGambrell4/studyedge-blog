@@ -26,9 +26,9 @@ Make a quick grid. For each final, write:
 
 Then sort by risk, highest first. **This is where your hours go, not the chronological exam order.**
 
-Worked example: a 40% final in Orgo II where you are sitting at a B going in and need an 84 to keep it beats a 15% quiz in History where you are solid at an A and need a 60 to be fine — even if the History quiz is on Monday and the Orgo final is Friday. Most students invert this because the History quiz is closer and feels louder. Then they walk into Orgo underprepared and torch a half-letter grade.
+Worked example: a 40% final in Orgo II where you are sitting at a B going in and need an 84 to keep it beats a 15% quiz in History where you are solid at an A and need a 60 to be fine, even if the History quiz is on Monday and the Orgo final is Friday. Most students invert this because the History quiz is closer and feels louder. Then they walk into Orgo underprepared and torch a half-letter grade.
 
-If you are looking at this grid and realizing your overall picture is shakier than you thought, that is a separate longer-term conversation — covered in [how to raise your GPA](/how-to-raise-your-gpa/). For this week, just allocate hours to risk.
+If you are looking at this grid and realizing your overall picture is shakier than you thought, that is a separate longer-term conversation, covered in [how to raise your GPA](/how-to-raise-your-gpa/). For this week, just allocate hours to risk.
 
 ## Build a session blueprint for each exam
 
@@ -64,7 +64,7 @@ For finals specifically: touch each course every day or every other day during f
 
 Sleep is when your brain consolidates the day's learning. An all-nighter before an exam impairs exactly the cognitive functions the exam tests: working memory, attention, retrieval under pressure. The trade is roughly 4 hours of additional cramming for a 10 to 15% drop in performance the next morning. That is a terrible exchange rate.
 
-> Four extra hours of cramming costs you 10–15% on the morning exam. Sleep is not optional preparation — it's part of the exam.
+> Four extra hours of cramming costs you 10–15% on the morning exam. Sleep is not optional preparation; it is part of the exam.
 
 A student who sleeps 7 hours and reviewed moderately will usually outperform a student who crammed all night and slept 3, because the rested student can actually access what they already know. The math is brutal but consistent.
 
@@ -89,13 +89,13 @@ The night before is not when you learn the material. It is when you keep existin
 - Avoid the cluster of panicking classmates outside the door. Pre-exam anxiety is contagious and serves no purpose.
 - Arrive early enough to settle in without sprinting.
 
-If your nervous system is already revving at this point, that is normal and useful — there is a separate piece on managing it without burning cognitive fuel: [exam anxiety tips that actually work](/exam-anxiety-tips/).
+If your nervous system is already revving at this point, that is normal and useful; there is a separate piece on managing it without burning cognitive fuel: [exam anxiety tips that actually work](/exam-anxiety-tips/).
 
-During the exam: read the whole thing first if format allows. Attack easy questions to build momentum. Budget your time per section and write the budget on the booklet. For essays, outline in the margin before writing. For problem sets, show every step — partial credit is real and easy to leave on the table.
+During the exam: read the whole thing first if format allows. Attack easy questions to build momentum. Budget your time per section and write the budget on the booklet. For essays, outline in the margin before writing. For problem sets, show every step, since partial credit is real and easy to leave on the table.
 
 ## After every exam, move on
 
-The post-exam autopsy with classmates outside the lecture hall — "what did you put for number 14?" — is one of the most reliably destructive things you can do during finals week. It cannot change your score. It can wreck your sleep, spike your anxiety, and tank your prep for the next exam. You have more exams. Walk away. Eat something. Move on.
+The post-exam autopsy with classmates outside the lecture hall ("what did you put for number 14?") is one of the most reliably destructive things you can do during finals week. It cannot change your score. It can wreck your sleep, spike your anxiety, and tank your prep for the next exam. You have more exams. Walk away. Eat something. Move on.
 
 ## How many hours is actually enough?
 
@@ -105,7 +105,7 @@ There is no universal number, but a working framework:
 - **Moderately prepared (some gaps, average is a B- to B):** 8 to 15 hours per exam across 4 to 5 days, mixing review with timed practice.
 - **Starting close to scratch:** triage hard. You cannot fully prep four finals from zero in a week. Pick the two highest-risk ones, give them most of your hours, and aim to not actively damage your grade in the others.
 
-The keyword in all of these is *focused*. A focused hour beats two passive hours. If you cannot get into a focused hour, the bottleneck is not study technique — it is [how to focus while studying](/how-to-focus-while-studying/), which is a different problem with different fixes.
+The keyword in all of these is *focused*. A focused hour beats two passive hours. If you cannot get into a focused hour, the bottleneck is not study technique; it is [how to focus while studying](/how-to-focus-while-studying/), which is a different problem with different fixes.
 
 ## Common ways this plan dies
 
