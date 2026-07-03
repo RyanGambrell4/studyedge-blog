@@ -4,6 +4,7 @@ description: "How to study for finals without the all-nighter spiral. A real 7-d
 pubDate: 2026-05-23
 tag: "Exam Prep"
 minutes: 10
+heroImage: "https://images.pexels.com/photos/6549355/pexels-photo-6549355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 ---
 
 ## Why most finals study plans collapse by day three
@@ -15,8 +16,10 @@ The plan that survives this is not the prettiest one. It is the one with built-i
 The plan below runs on three ideas: triage by risk, not by exam date. Run every session on retrieval practice. Protect sleep like it is part of the exam, because it is.
 
 
-![A student studying late at a desk under a lamp in the library](https://images.pexels.com/photos/6549355/pexels-photo-6549355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-*Photo by Tima Miroshnichenko on Pexels*
+<figure>
+  <img src="https://images.pexels.com/photos/6549355/pexels-photo-6549355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student studying late at a desk under a lamp in the library" loading="lazy" />
+  <figcaption>Photo by Tima Miroshnichenko on Pexels</figcaption>
+</figure>
 ## Day 7 to day 5: triage by risk, not by date
 
 The first move is not to open your notes. It is to rank your finals by risk. Risk is two things: how much the final is worth, and how much room you have to lose points before your target grade slips.
@@ -45,8 +48,10 @@ For every final, write a one-page blueprint that includes:
 Then put those sessions on a calendar. Every session has a course, a topic, and a deliverable. "Study chemistry for two hours" is not a session. "Review SN1/SN2 mechanisms, then do problems 1 to 12 in chapter 9, phone in the other room" is a session. If you are not sure how to lay this out across a week, the [study schedule maker walkthrough](/study-schedule-maker/) has templates.
 
 
-![A student organizing notes and books in preparation for a final exam](https://images.pexels.com/photos/7128752/pexels-photo-7128752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-*Photo by cottonbro studio on Pexels*
+<figure>
+  <img src="https://images.pexels.com/photos/7128752/pexels-photo-7128752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student organizing notes and books in preparation for a final exam" loading="lazy" />
+  <figcaption>Photo by cottonbro studio on Pexels</figcaption>
+</figure>
 ## Day 5 to day 2: every session runs on active recall
 
 Active recall is the single most underused study habit, and the gap between students who do it and students who do not is enormous. It means producing information from memory before you check whether you are right.
@@ -67,8 +72,10 @@ Do not park on one course for eight hours on Tuesday. Spread the hours across th
 For finals specifically: touch each course every day or every other day during finals week. Short sessions, repeated, beat marathon sessions. The mechanism and the schedule are explained in more detail in [the spaced repetition study method](/spaced-repetition-study-method/), but the rule for finals week is: every course gets at least one touch every 48 hours.
 
 
-![A student slumped over a desk with open books — the cost of skipping sleep](https://images.pexels.com/photos/9489900/pexels-photo-9489900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-*Photo by Yaroslav Shuraev on Pexels*
+<figure>
+  <img src="https://images.pexels.com/photos/9489900/pexels-photo-9489900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student slumped over a desk with open books, the cost of skipping sleep" loading="lazy" />
+  <figcaption>Photo by Yaroslav Shuraev on Pexels</figcaption>
+</figure>
 ## Day 2 to day of exam: protect the inputs
 
 Sleep is when your brain consolidates the day's learning. An all-nighter before an exam impairs exactly the cognitive functions the exam tests: working memory, attention, retrieval under pressure. The trade is roughly 4 hours of additional cramming for a 10 to 15% drop in performance the next morning. That is a terrible exchange rate.

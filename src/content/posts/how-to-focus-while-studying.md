@@ -4,6 +4,7 @@ description: "How to focus while studying without relying on willpower. Environm
 pubDate: 2026-05-24
 tag: "Focus"
 minutes: 9
+heroImage: "https://images.pexels.com/photos/5940710/pexels-photo-5940710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 ---
 
 ## Why willpower is the wrong frame
@@ -12,7 +13,10 @@ Most "how to focus while studying" advice tells you to try harder. Close the tab
 
 The students who reliably focus are not more disciplined than you are. They have removed the decisions that drain attention before the work begins. Focus is what happens when you stop fighting your environment, not when you finally beat it.
 
-![A student focused on work at a clean, minimal desk](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=720&q=80)
+<figure>
+  <img src="https://images.pexels.com/photos/5940710/pexels-photo-5940710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="A concentrated student working at a laptop with books and notes, fully focused at a clean desk" loading="lazy" />
+  <figcaption>Photo by Kampus Production on Pexels</figcaption>
+</figure>
 
 ## 1. Attention residue is the silent killer
 
@@ -37,7 +41,10 @@ Before opening your textbook, do the boring setup:
 
 Every decision you have to make during a study session is attention you are not spending on the work. Pre-decide everything you can.
 
-![A clean, distraction-free desk setup with a laptop and minimal items](https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=720&q=80)
+<figure>
+  <img src="https://images.pexels.com/photos/5793947/pexels-photo-5793947.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="A minimalist workspace with open laptop, coffee mug, and a single plant, the ideal distraction-free study setup" loading="lazy" />
+  <figcaption>Photo by Yan Krukau on Pexels</figcaption>
+</figure>
 
 ## 3. The two-minute starting rule
 
@@ -59,7 +66,10 @@ Replace it with focused blocks:
 
 The pomodoro technique (25 on, 5 off) works fine for some students. Others find 90-minute blocks more natural because they match one cognitive sprint. The right block length is the longest one you can hold full attention for. Test both for a week and keep the one that produces more finished deliverables, not the one that feels more productive. Pair the right blocks with the right material using [the best study techniques for college students](/best-study-techniques-for-college-students/): active recall and retrieval practice survive long blocks better than passive rereading does.
 
-![Student working with focus at a desk during a timed study session](https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=720&q=80)
+<figure>
+  <img src="https://images.pexels.com/photos/6670790/pexels-photo-6670790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="A young woman writing in a notebook at a warmly lit desk, deep in a focused study session" loading="lazy" />
+  <figcaption>Photo by Tima Miroshnichenko on Pexels</figcaption>
+</figure>
 
 ## 5. Hard work first, easy work later
 
@@ -95,7 +105,10 @@ Sleep, food, and movement are not separate from focus. They are the inputs.
 
 The student who sleeps seven hours and walks for twenty minutes will outfocus the student who slept four and did three pomodoros to "make up for it." This is unintuitive only if you have not tried it.
 
-![A person getting quality sleep, the most underrated study tool](https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=720&q=80)
+<figure>
+  <img src="https://images.pexels.com/photos/7504674/pexels-photo-7504674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="A person sleeping peacefully in a cozy bed with white bedding, representing the sleep quality that drives focus" loading="lazy" />
+  <figcaption>Photo by Artem Podrez on Pexels</figcaption>
+</figure>
 
 ## What does not work
 

@@ -41,6 +41,7 @@ const articleLd = {
   },
   mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
   articleSection: post.data.tag,
+  ...(post.data.heroImage ? { image: { '@type': 'ImageObject', url: post.data.heroImage } } : {}),
 };
 
 const breadcrumbLd = {
@@ -61,6 +62,7 @@ const breadcrumbLd = {
   pubDate={post.data.pubDate}
   updatedDate={post.data.updatedDate}
   tag={post.data.tag}
+  ogImage={post.data.heroImage}
 >
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(articleLd)} />
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(breadcrumbLd)} />

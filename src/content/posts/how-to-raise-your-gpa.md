@@ -4,6 +4,7 @@ description: "How to raise your GPA after one bad semester or a slow start. The 
 pubDate: 2026-05-20
 tag: "GPA"
 minutes: 10
+heroImage: "https://images.pexels.com/photos/37811833/pexels-photo-37811833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 ---
 
 ## The honest part most articles skip
@@ -13,8 +14,10 @@ Raising your GPA is a math problem and a habit problem, in that order. The math 
 This guide is the math first, then the moves.
 
 
-![A student writing focused notes alone in an empty classroom](https://images.pexels.com/photos/37811833/pexels-photo-37811833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-*Photo by Ayelen Rocio Amador on Pexels*
+<figure>
+  <img src="https://images.pexels.com/photos/37811833/pexels-photo-37811833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student writing focused notes alone in an empty classroom" loading="lazy" />
+  <figcaption>Photo by Ayelen Rocio Amador on Pexels</figcaption>
+</figure>
 ## Step 1: run the actual numbers
 
 Before anything else, calculate where you are: total credits attempted, current cumulative GPA, the GPA you want, the credits you have left. Then compute what average GPA you need across those remaining credits to hit the target. The formula is just `(target_gpa * total_credits) - (current_gpa * credits_done) = required_points_remaining`, divided by remaining credits.
@@ -82,8 +85,10 @@ If your school averages rather than replaces, the math is weaker, but the retake
 The failure mode: spamming W's instead of retakes. Two or three W's are invisible. Six W's on a transcript start showing up as a pattern to grad school admissions, and they read it as "this student walks away from hard things."
 
 
-![A teenager sleeping peacefully in a cozy bedroom — essential for academic recovery](https://images.pexels.com/photos/296817/pexels-photo-296817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-*Photo by John-Mark Smith on Pexels*
+<figure>
+  <img src="https://images.pexels.com/photos/296817/pexels-photo-296817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A teenager sleeping peacefully in a cozy bedroom, essential for academic recovery" loading="lazy" />
+  <figcaption>Photo by John-Mark Smith on Pexels</figcaption>
+</figure>
 ## Step 8: protect sleep, food, and movement
 
 Sleep is what makes the next day's study session work. Students in recovery mode often sleep 5 hours and grind. The math goes against them: an extra 90 minutes of sleep regularly produces more usable studying the next day than the 90 minutes you would have spent awake re-reading. Aim for 7 to 8 hours, not 5.

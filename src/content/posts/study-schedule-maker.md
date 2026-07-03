@@ -4,6 +4,7 @@ description: "Most study schedule makers produce a calendar that dies by week tw
 pubDate: 2026-05-21
 tag: "Planning"
 minutes: 9
+heroImage: "https://images.pexels.com/photos/6690930/pexels-photo-6690930.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 ---
 
 ## Why your last study schedule died
@@ -17,8 +18,10 @@ It also dies because most students treat the calendar itself as the work. Buildi
 A schedule that holds up has different bones. This guide is what those bones look like.
 
 
-![A close-up of a minimalist weekly planner ready to be filled in](https://images.pexels.com/photos/6690930/pexels-photo-6690930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-*Photo by Tara Winstead on Pexels*
+<figure>
+  <img src="https://images.pexels.com/photos/6690930/pexels-photo-6690930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A close-up of a minimalist weekly planner ready to be filled in" loading="lazy" />
+  <figcaption>Photo by Tara Winstead on Pexels</figcaption>
+</figure>
 ## The seven block types every weekly schedule needs
 
 A study schedule maker that asks you to fill in seven block types, instead of blank hours, produces a plan that survives a normal week.
@@ -42,8 +45,10 @@ A more honest target: 15 to 22 hours of *focused* study per week for a normal co
 Harder courses pull more from the budget. A 4-credit Diff Eq class might eat 10 hours a week alone. A 3-credit Lit Theory seminar with one paper might run 4 hours most weeks and 15 the week the paper is due.
 
 
-![Top-down view of a student's organized desk with notebook, laptop, and sticky notes](https://images.pexels.com/photos/5185081/pexels-photo-5185081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-*Photo by cottonbro studio on Pexels*
+<figure>
+  <img src="https://images.pexels.com/photos/5185081/pexels-photo-5185081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Top-down view of a student's organized desk with notebook, laptop, and sticky notes" loading="lazy" />
+  <figcaption>Photo by cottonbro studio on Pexels</figcaption>
+</figure>
 ## A sample weekly study schedule
 
 Here is one shape that works for a four-course semester (Bio 200, Diff Eq, American History since 1865, Lit Theory seminar) with a 6pm to 10pm shift on Tuesdays and Thursdays. About 18 focused hours.
@@ -59,8 +64,10 @@ Here is one shape that works for a four-course semester (Bio 200, Diff Eq, Ameri
 This shape gives you about 18 focused hours, two reslot windows, and one true day off. It absorbs a missed Tuesday session without collapsing.
 
 
-![Hands writing in a notebook with a coffee and laptop nearby for weekly planning](https://images.pexels.com/photos/9029748/pexels-photo-9029748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-*Photo by Junjira Konsang on Pexels*
+<figure>
+  <img src="https://images.pexels.com/photos/9029748/pexels-photo-9029748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Hands writing in a notebook with a coffee and laptop nearby for weekly planning" loading="lazy" />
+  <figcaption>Photo by Junjira Konsang on Pexels</figcaption>
+</figure>
 ## The Sunday rebuild ritual
 
 The thirty minutes you spend Sunday morning rewriting next week is what keeps the schedule alive. Coffee, calendar, syllabus tabs open. Look at:
