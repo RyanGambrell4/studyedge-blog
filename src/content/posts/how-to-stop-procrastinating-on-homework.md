@@ -14,6 +14,9 @@ You are not procrastinating because you do not know the homework is due. You kno
 
 This is why "just do it" advice does not work. You are not trying harder. You are trying to avoid a feeling. Every solution below addresses the feeling first and the work second.
 
+
+![A student in class distracted by a smartphone instead of working](https://images.pexels.com/photos/8500276/pexels-photo-8500276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+*Photo by RDNE Stock project on Pexels*
 ## The two-minute starting rule
 
 The hardest part of any task is the first two minutes. The resistance peaks right before you begin, and almost always collapses once you have started. This rule comes from BJ Fogg's Tiny Habits research and got widely popularized by James Clear.
@@ -24,6 +27,9 @@ Concrete version: you have a 6-page History essay due Sunday at 11:59pm. It is W
 
 This works for a specific reason: the resistance you feel is to the *idea* of the task, which is huge and undefined in your head. Two minutes of contact replaces the imagined task ("write a 6-page essay") with the real task ("write a working title and the thesis sentence"), which is almost always smaller and more concrete than the imagined version. Once you are moving, the rules for staying moving are in [how to focus while studying](/how-to-focus-while-studying/).
 
+
+![Students working under a digital timer, showing focused timed work sessions](https://images.pexels.com/photos/31115185/pexels-photo-31115185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+*Photo by This And No Internet 25 on Pexels*
 ## Implementation intentions beat resolutions
 
 "I will study tonight" is not a plan. It is a hope. Peter Gollwitzer's research on implementation intentions, replicated across hundreds of studies, is consistent: vague intentions almost never produce action. Specific if-then plans tied to a trigger do, with effect sizes that dwarf almost anything else in behavior change.
@@ -64,6 +70,9 @@ Each one has a different intervention. Fear of doing badly responds to lowering 
 
 The fastest way out is naming which one it is. "I am avoiding this because I am afraid the draft will be bad" is already half the work.
 
+
+![A student writing an action plan in a notebook at a wooden desk](https://images.pexels.com/photos/5239797/pexels-photo-5239797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+*Photo by Anete Lusina on Pexels*
 ## Pre-decide everything you can
 
 Every decision you have to make in the moment is a chance for the resistance to win. Pre-decide so that when the time comes, there is nothing to negotiate with.

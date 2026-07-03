@@ -16,6 +16,9 @@ Here is the core idea. Your brain forgets new information on a predictable curve
 
 Spaced repetition exploits the curve. Every time you successfully retrieve a piece of information just as you were about to forget it, the next forgetting curve is shallower. Four or five timed retrievals across a month can take a fact from "gone in two days" to "still there in two years." Cepeda et al.'s 2008 meta-analysis covered more than 250 studies and found spaced practice beat massed practice across virtually every retention interval that matters for a college student. Cramming cannot reproduce this. Re-reading cannot reproduce this. Only retrieval at the right interval can.
 
+
+![A woman reviewing educational flashcards at a wooden table](https://images.pexels.com/photos/9492818/pexels-photo-9492818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+*Photo by Helena Lopes on Pexels*
 ## The mechanism: retrieval at the edge of forgetting
 
 The optimal moment to review something is right when you are about to forget it. Too early and the review is wasted because the memory is still vivid and the brain does no real work to retrieve it. Too late and you have to re-learn from scratch.
@@ -51,6 +54,9 @@ Anki is excellent for:
 
 The students who use Anki well treat it as a daily habit: 10 to 30 minutes a day, every day, no skipping. They never let the queue blow up.
 
+
+![A student using a smartphone app for spaced repetition study sessions](https://images.pexels.com/photos/8147478/pexels-photo-8147478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+*Photo by www.kaboompics.com on Pexels*
 ## Where Anki fails
 
 Anki is bad at:

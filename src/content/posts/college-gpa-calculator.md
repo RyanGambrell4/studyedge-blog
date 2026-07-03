@@ -6,6 +6,9 @@ tag: "GPA"
 minutes: 9
 ---
 
+
+![Overhead view of a student's desk with laptop, calculator, and notes](https://images.pexels.com/photos/5184950/pexels-photo-5184950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+*Photo by cottonbro studio on Pexels*
 ## What a college GPA calculator should actually tell you
 
 A GPA calculator that just spits out a number is half a tool. The number is information. The plan that responds to the number is what changes your semester. A good college GPA calculator answers three questions:
@@ -47,6 +50,9 @@ To climb back to 3.50 from there, you need close to a 3.93 average over the next
 
 The lesson most students learn the hard way: defending a 3.5 is cheaper than rebuilding one. One careless term costs two careful ones.
 
+
+![A student working through grade calculations on a math worksheet](https://images.pexels.com/photos/7972487/pexels-photo-7972487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+*Photo by George Pak on Pexels*
 ## The two-level math: GPA and course grade
 
 A GPA calculator works best when paired with course-level grade math. The GPA is the output. The thing you can actually control is the next exam, and that is decided at the course level.
