@@ -22,6 +22,7 @@ A schedule that holds up has different bones. This guide is what those bones loo
   <img src="https://images.pexels.com/photos/6690930/pexels-photo-6690930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A close-up of a minimalist weekly planner ready to be filled in" loading="lazy" />
   <figcaption>Photo by Tara Winstead on Pexels</figcaption>
 </figure>
+
 ## The seven block types every weekly schedule needs
 
 A study schedule maker that asks you to fill in seven block types, instead of blank hours, produces a plan that survives a normal week.
@@ -49,6 +50,7 @@ Harder courses pull more from the budget. A 4-credit Diff Eq class might eat 10 
   <img src="https://images.pexels.com/photos/5185081/pexels-photo-5185081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Top-down view of a student's organized desk with notebook, laptop, and sticky notes" loading="lazy" />
   <figcaption>Photo by cottonbro studio on Pexels</figcaption>
 </figure>
+
 ## A sample weekly study schedule
 
 Here is one shape that works for a four-course semester (Bio 200, Diff Eq, American History since 1865, Lit Theory seminar) with a 6pm to 10pm shift on Tuesdays and Thursdays. About 18 focused hours.
@@ -68,6 +70,7 @@ This shape gives you about 18 focused hours, two reslot windows, and one true da
   <img src="https://images.pexels.com/photos/9029748/pexels-photo-9029748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Hands writing in a notebook with a coffee and laptop nearby for weekly planning" loading="lazy" />
   <figcaption>Photo by Junjira Konsang on Pexels</figcaption>
 </figure>
+
 ## The Sunday rebuild ritual
 
 The thirty minutes you spend Sunday morning rewriting next week is what keeps the schedule alive. Coffee, calendar, syllabus tabs open. Look at:

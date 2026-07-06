@@ -18,6 +18,7 @@ Exam anxiety is a physiological and cognitive event with predictable mechanics. 
   <img src="https://images.pexels.com/photos/6683965/pexels-photo-6683965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Students taking an exam in a classroom, focused and calm" loading="lazy" />
   <figcaption>Photo by Andy Barbour on Pexels</figcaption>
 </figure>
+
 ## 1. Reframe arousal as readiness, not danger
 
 The fastest cognitive shift with the largest impact: your racing heart, sweaty palms, and tight chest are the same physiological state as excitement. The body does not have a separate signal for "I am threatened" versus "I am about to perform." The brain decides which label to apply.
@@ -62,6 +63,7 @@ The point is not these specific items. It is that you are running a routine, not
   <img src="https://images.pexels.com/photos/10132981/pexels-photo-10132981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A calm morning scene with coffee and an open book to start the day right" loading="lazy" />
   <figcaption>Photo by Marek Kupiec on Pexels</figcaption>
 </figure>
+
 ## 4. Use the long exhale, not the deep breath
 
 "Take a deep breath" is wrong in a small but meaningful way. Big inhales activate the sympathetic nervous system, the one driving the racing heart. You are making the problem worse.
@@ -87,6 +89,7 @@ This is a standard CBT technique called cognitive defusion. The act of putting t
   <img src="https://images.pexels.com/photos/37812751/pexels-photo-37812751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A group of students focused on taking a test in a well-lit classroom" loading="lazy" />
   <figcaption>Photo by Kari Alfonso on Pexels</figcaption>
 </figure>
+
 ## 6. Preload the actual exam conditions in practice
 
 Test anxiety is partly a context mismatch. You practiced calmly at your desk with snacks and Spotify. The exam happens under time pressure, in a strange lecture hall, with people sniffing and pencils clicking and the proctor pacing. Your brain reads the mismatch as threat.

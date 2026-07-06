@@ -200,6 +200,36 @@
   position: relative;
 }
 
+/* Inline article images */
+.prose figure {
+  margin: 40px 0;
+}
+
+.prose figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  display: block;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08);
+}
+
+.prose figcaption {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #9B9B9B;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.prose img {
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  display: block;
+  margin: 40px 0;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08);
+}
+
 /* Smooth scroll for any anchor links */
 html {
   scroll-behavior: smooth;

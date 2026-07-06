@@ -22,6 +22,7 @@ Spaced repetition exploits the curve. Every time you successfully retrieve a pie
   <img src="https://images.pexels.com/photos/9492818/pexels-photo-9492818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A woman reviewing educational flashcards at a wooden table" loading="lazy" />
   <figcaption>Photo by Helena Lopes on Pexels</figcaption>
 </figure>
+
 ## The mechanism: retrieval at the edge of forgetting
 
 The optimal moment to review something is right when you are about to forget it. Too early and the review is wasted because the memory is still vivid and the brain does no real work to retrieve it. Too late and you have to re-learn from scratch.
@@ -62,6 +63,7 @@ The students who use Anki well treat it as a daily habit: 10 to 30 minutes a day
   <img src="https://images.pexels.com/photos/8147478/pexels-photo-8147478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student using a smartphone app for spaced repetition study sessions" loading="lazy" />
   <figcaption>Photo by www.kaboompics.com on Pexels</figcaption>
 </figure>
+
 ## Where Anki fails
 
 Anki is bad at:
@@ -84,6 +86,11 @@ You do not need an app. A working low-tech version, called the Leitner system (d
 
 This works exactly as well as Anki for most students, with no software friction and no temptation to spend an hour tweaking card formatting. The downside is portability and the fact that you cannot easily run 5,000 cards through it.
 
+<figure>
+  <img src="https://images.pexels.com/photos/8553916/pexels-photo-8553916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student highlighting key passages in a document during an active review session" loading="lazy" />
+  <figcaption>Photo by Polina Tankilevitch on Pexels</figcaption>
+</figure>
+
 ## The cognitive bias that wrecks spaced repetition
 
 The fluency illusion. When you re-read material and recognize it, your brain registers "I know this." You don't. Recognition is not retrieval, and the gap between the two is exactly where exam points disappear.
@@ -99,6 +106,11 @@ Spacing tells you *when* to retrieve. Interleaving tells you *how* to mix the re
 If you sit down for a one-hour review session and do 20 minutes of organic chemistry cards, then 20 minutes of physiology cards, then 20 minutes of biochem cards in clean blocks, you basically lost the interleaving benefit. Better: organic card, physiology card, biochem card, organic card, physiology card, biochem card. Your accuracy during practice drops, often noticeably. Your exam performance climbs.
 
 This works because the exam will not group questions by topic, and the act of *first* deciding which topic a question belongs to is part of what's being tested. Block practice trains you for a test that doesn't exist.
+
+<figure>
+  <img src="https://images.pexels.com/photos/5553660/pexels-photo-5553660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Two students working side by side on different subjects, practicing the interleaved study method" loading="lazy" />
+  <figcaption>Photo by Armin Rimoldi on Pexels</figcaption>
+</figure>
 
 ## The realistic problem: doing this for 5 classes at once
 

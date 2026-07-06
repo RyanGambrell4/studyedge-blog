@@ -37,6 +37,7 @@ import urllib.request
 
 
 def _get(url, headers):
+    headers.setdefault("User-Agent", "Mozilla/5.0 StudyEdge Blog")
     req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=20) as resp:
         return json.loads(resp.read().decode("utf-8"))

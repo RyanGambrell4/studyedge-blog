@@ -12,6 +12,7 @@ heroImage: "https://images.pexels.com/photos/37757978/pexels-photo-37757978.jpeg
   <img src="https://images.pexels.com/photos/37757978/pexels-photo-37757978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A focused student writing notes in a notebook during class" loading="lazy" />
   <figcaption>Photo by Gera Cejas on Pexels</figcaption>
 </figure>
+
 ## Why most "best study techniques" lists are wrong
 
 The most common study techniques in college are the ones that feel best in the moment and lose to almost everything else in a head-to-head comparison. Highlighting your textbook in three colors. Re-reading the chapter the night before the exam. Rewriting your notes into a prettier version. They feel productive because they generate a visible artifact and your brain registers the material as familiar afterward.
@@ -40,6 +41,7 @@ The students who reliably pull As do this without thinking. Most other students 
   <img src="https://images.pexels.com/photos/771317/pexels-photo-771317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student concentrating on studying at his desk, taking notes" loading="lazy" />
   <figcaption>Photo by Min An on Pexels</figcaption>
 </figure>
+
 ## 2. Spaced repetition
 
 If active recall is the technique, spacing is the schedule. Spaced repetition means revisiting the same material at expanding intervals (1 day, 3 days, 10 days, ~30 days) instead of one giant block the week of the exam.
@@ -73,6 +75,7 @@ When to interleave: once you have basic exposure to multiple topics. When not to
   <img src="https://images.pexels.com/photos/5239796/pexels-photo-5239796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student writing in a study planner to schedule review sessions" loading="lazy" />
   <figcaption>Photo by Anete Lusina on Pexels</figcaption>
 </figure>
+
 ## 4. Elaborative encoding
 
 Elaboration means asking *why* and *how* something is true while you study, rather than just accepting and moving on. You force yourself to connect new material to things you already know.
@@ -96,6 +99,7 @@ This is the single best move in problem-heavy courses: physics, chemistry, math,
   <img src="https://images.pexels.com/photos/3861462/pexels-photo-3861462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A hand drawing a detailed diagram on paper to encode concepts visually" loading="lazy" />
   <figcaption>Photo by ThisIsEngineering on Pexels</figcaption>
 </figure>
+
 ## 6. Dual coding
 
 Dual coding means combining verbal information with visual information. Diagrams, sketches, concept maps, redrawn pathways. The brain encodes the same content through two channels, which gives you two retrieval routes.

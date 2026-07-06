@@ -20,6 +20,7 @@ The plan below runs on three ideas: triage by risk, not by exam date. Run every 
   <img src="https://images.pexels.com/photos/6549355/pexels-photo-6549355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student studying late at a desk under a lamp in the library" loading="lazy" />
   <figcaption>Photo by Tima Miroshnichenko on Pexels</figcaption>
 </figure>
+
 ## Day 7 to day 5: triage by risk, not by date
 
 The first move is not to open your notes. It is to rank your finals by risk. Risk is two things: how much the final is worth, and how much room you have to lose points before your target grade slips.
@@ -52,6 +53,7 @@ Then put those sessions on a calendar. Every session has a course, a topic, and 
   <img src="https://images.pexels.com/photos/7128752/pexels-photo-7128752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student organizing notes and books in preparation for a final exam" loading="lazy" />
   <figcaption>Photo by cottonbro studio on Pexels</figcaption>
 </figure>
+
 ## Day 5 to day 2: every session runs on active recall
 
 Active recall is the single most underused study habit, and the gap between students who do it and students who do not is enormous. It means producing information from memory before you check whether you are right.
@@ -76,6 +78,7 @@ For finals specifically: touch each course every day or every other day during f
   <img src="https://images.pexels.com/photos/9489900/pexels-photo-9489900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student slumped over a desk with open books, the cost of skipping sleep" loading="lazy" />
   <figcaption>Photo by Yaroslav Shuraev on Pexels</figcaption>
 </figure>
+
 ## Day 2 to day of exam: protect the inputs
 
 Sleep is when your brain consolidates the day's learning. An all-nighter before an exam impairs exactly the cognitive functions the exam tests: working memory, attention, retrieval under pressure. The trade is roughly 4 hours of additional cramming for a 10 to 15% drop in performance the next morning. That is a terrible exchange rate.

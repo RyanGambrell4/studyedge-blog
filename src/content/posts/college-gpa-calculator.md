@@ -12,6 +12,7 @@ heroImage: "https://images.pexels.com/photos/5184950/pexels-photo-5184950.jpeg?a
   <img src="https://images.pexels.com/photos/5184950/pexels-photo-5184950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Overhead view of a student's desk with laptop, calculator, and notes" loading="lazy" />
   <figcaption>Photo by cottonbro studio on Pexels</figcaption>
 </figure>
+
 ## What a college GPA calculator should actually tell you
 
 A GPA calculator that just spits out a number is half a tool. The number is information. The plan that responds to the number is what changes your semester. A good college GPA calculator answers three questions:
@@ -58,6 +59,7 @@ The lesson most students learn the hard way: defending a 3.5 is cheaper than reb
   <img src="https://images.pexels.com/photos/7972487/pexels-photo-7972487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student working through grade calculations on a math worksheet" loading="lazy" />
   <figcaption>Photo by George Pak on Pexels</figcaption>
 </figure>
+
 ## The two-level math: GPA and course grade
 
 A GPA calculator works best when paired with course-level grade math. The GPA is the output. The thing you can actually control is the next exam, and that is decided at the course level.
@@ -95,6 +97,11 @@ The failure mode here is reversing it: grinding the defense course because it fe
 - **Skipping science-GPA math if you're pre-med.** AMCAS recalculates a BCPM (Biology, Chemistry, Physics, Math) GPA separately. A 3.7 cumulative with a 3.3 BCPM is a different application than a 3.7/3.7.
 - **Forgetting +/- doesn't exist everywhere.** Some schools only post whole-letter grades; an A means 4.0 flat. The math is simpler but the calculator template has to match.
 
+<figure>
+  <img src="https://images.pexels.com/photos/6345309/pexels-photo-6345309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Close-up of a student calculating numbers at a desk with a pencil and laptop" loading="lazy" />
+  <figcaption>Photo by kaboompics.com on Pexels</figcaption>
+</figure>
+
 ## Strategic uses for a GPA calculator
 
 A GPA calculator is useful during the semester, not just at the end. Three real use cases:
@@ -117,6 +124,11 @@ Picking a target without context is mostly noise. Two more useful frames:
 "I need a 93 on the Orgo final" is information. "Here is how I will earn a 93" is a plan. A plan typically includes: identifying the 3 to 4 highest-yield topics on the syllabus, doing two timed past finals, building flashcards on the weak topics that surface from those past finals, and protecting sleep the four nights before. The [focus guide](/how-to-focus-while-studying/) covers the per-session mechanics if you sit down and can't get into the work.
 
 The GPA calculator only becomes useful when the number turns into sessions on the calendar. That is where most students stop and where the actual leverage is.
+
+<figure>
+  <img src="https://images.pexels.com/photos/5185082/pexels-photo-5185082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Overhead shot of a student organizing notes and study materials on a desk with a laptop" loading="lazy" />
+  <figcaption>Photo by cottonbro studio on Pexels</figcaption>
+</figure>
 
 ## Pairing a GPA calculator with a planner
 

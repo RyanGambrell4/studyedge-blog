@@ -18,6 +18,7 @@ This guide is the math first, then the moves.
   <img src="https://images.pexels.com/photos/37811833/pexels-photo-37811833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student writing focused notes alone in an empty classroom" loading="lazy" />
   <figcaption>Photo by Ayelen Rocio Amador on Pexels</figcaption>
 </figure>
+
 ## Step 1: run the actual numbers
 
 Before anything else, calculate where you are: total credits attempted, current cumulative GPA, the GPA you want, the credits you have left. Then compute what average GPA you need across those remaining credits to hit the target. The formula is just `(target_gpa * total_credits) - (current_gpa * credits_done) = required_points_remaining`, divided by remaining credits.
@@ -56,6 +57,11 @@ For the recovery semester:
 
 The professor matters as much as the course title. A good schedule is worth 0.2 to 0.3 of cumulative GPA over the year.
 
+<figure>
+  <img src="https://images.pexels.com/photos/5538619/pexels-photo-5538619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A focused female student writing a course plan at an outdoor cafe, keeping a manageable schedule" loading="lazy" />
+  <figcaption>Photo by Zen Chung on Pexels</figcaption>
+</figure>
+
 ## Step 5: change how you study, not just how many hours
 
 Most students respond to a bad semester by deciding to study more, which usually means more hours of re-reading. This rarely moves a grade. Students who actually climb from a 2.8 to a 3.6 over two semesters change their method, not just their hours.
@@ -89,6 +95,7 @@ The failure mode: spamming W's instead of retakes. Two or three W's are invisibl
   <img src="https://images.pexels.com/photos/296817/pexels-photo-296817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A teenager sleeping peacefully in a cozy bedroom, essential for academic recovery" loading="lazy" />
   <figcaption>Photo by John-Mark Smith on Pexels</figcaption>
 </figure>
+
 ## Step 8: protect sleep, food, and movement
 
 Sleep is what makes the next day's study session work. Students in recovery mode often sleep 5 hours and grind. The math goes against them: an extra 90 minutes of sleep regularly produces more usable studying the next day than the 90 minutes you would have spent awake re-reading. Aim for 7 to 8 hours, not 5.
@@ -100,6 +107,11 @@ Eat actual meals. Move for 20 minutes a day, even just a walk. These are not opt
 Willpower is finite, especially after a hard term. Students who actually recover build a system that runs on bad days too: a weekly plan that already knows what session is next, a reslot rule for missed sessions (move it within 48 hours or drop it), a Sunday 20-minute rebuild ritual, an active recall practice that does not require you to decide what to study each evening. The [study schedule maker post](/study-schedule-maker/) breaks down a weekly layout that survives the third week of the semester when motivation runs out, and the [stop-procrastinating guide](/how-to-stop-procrastinating-on-homework/) handles the task-initiation problem on the days when you sit down and just stare.
 
 The point of the system is to remove decisions, not add them.
+
+<figure>
+  <img src="https://images.pexels.com/photos/6958537/pexels-photo-6958537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student focused on studying with textbooks, calculator, and notes laid out on a desk" loading="lazy" />
+  <figcaption>Photo by kaboompics.com on Pexels</figcaption>
+</figure>
 
 ## How much can you realistically raise your GPA?
 

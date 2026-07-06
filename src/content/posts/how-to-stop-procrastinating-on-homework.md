@@ -20,6 +20,7 @@ This is why "just do it" advice does not work. You are not trying harder. You ar
   <img src="https://images.pexels.com/photos/8500276/pexels-photo-8500276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student in class distracted by a smartphone instead of working" loading="lazy" />
   <figcaption>Photo by RDNE Stock project on Pexels</figcaption>
 </figure>
+
 ## The two-minute starting rule
 
 The hardest part of any task is the first two minutes. The resistance peaks right before you begin, and almost always collapses once you have started. This rule comes from BJ Fogg's Tiny Habits research and got widely popularized by James Clear.
@@ -35,6 +36,7 @@ This works for a specific reason: the resistance you feel is to the *idea* of th
   <img src="https://images.pexels.com/photos/31115185/pexels-photo-31115185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Students working under a digital timer, showing focused timed work sessions" loading="lazy" />
   <figcaption>Photo by This And No Internet 25 on Pexels</figcaption>
 </figure>
+
 ## Implementation intentions beat resolutions
 
 "I will study tonight" is not a plan. It is a hope. Peter Gollwitzer's research on implementation intentions, replicated across hundreds of studies, is consistent: vague intentions almost never produce action. Specific if-then plans tied to a trigger do, with effect sizes that dwarf almost anything else in behavior change.
@@ -80,6 +82,7 @@ The fastest way out is naming which one it is. "I am avoiding this because I am 
   <img src="https://images.pexels.com/photos/5239797/pexels-photo-5239797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student writing an action plan in a notebook at a wooden desk" loading="lazy" />
   <figcaption>Photo by Anete Lusina on Pexels</figcaption>
 </figure>
+
 ## Pre-decide everything you can
 
 Every decision you have to make in the moment is a chance for the resistance to win. Pre-decide so that when the time comes, there is nothing to negotiate with.

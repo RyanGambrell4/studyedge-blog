@@ -22,6 +22,7 @@ The methods below are the ones that pass that test.
   <img src="https://images.pexels.com/photos/37860169/pexels-photo-37860169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student taking handwritten notes in a classroom with natural light" loading="lazy" />
   <figcaption>Photo by jessica olivella on Pexels</figcaption>
 </figure>
+
 ## Capture is not the goal. Reuse is.
 
 If you only change one thing about your note-taking, change this: do not optimize for capturing more. Optimize for the notes you will actually return to.
@@ -69,6 +70,7 @@ Outlining is poor for material that is non-linear: a Lit Theory seminar on Derri
   <img src="https://images.pexels.com/photos/5538326/pexels-photo-5538326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="An overhead view of a student writing organized notes in a structured format" loading="lazy" />
   <figcaption>Photo by Zen Chung on Pexels</figcaption>
 </figure>
+
 ## 3. Concept mapping (for systems and relationships)
 
 For courses where the content is a web of relationships (neuroscience pathways, ecological systems, philosophical arguments, signaling cascades), a linear outline buries the structure that matters.
@@ -90,6 +92,7 @@ Build the chart during the lecture if you can see the structure coming. Otherwis
   <img src="https://images.pexels.com/photos/4499739/pexels-photo-4499739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="A student drawing colorful diagrams on a whiteboard to map complex concepts" loading="lazy" />
   <figcaption>Photo by Roxanne Minnish on Pexels</figcaption>
 </figure>
+
 ## 5. The "questions in the margin" method (most underrated)
 
 This is not a full note system. It is a habit to add to any of the above.
